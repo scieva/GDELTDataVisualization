@@ -1,29 +1,29 @@
 function noneHandler(){
     var img = document.getElementById("mapa");
-    img.src = "C:\\Users\\sciev\\OneDrive\\Desktop\\PyCharm Projects\\WBS_GDELT\\Backup images\\none.png"
+    img.src = "none.png"
 }
 
 function allHandler(){
     var img = document.getElementById("mapa");
-    img.src = "C:\\Users\\sciev\\OneDrive\\Desktop\\PyCharm Projects\\WBS_GDELT\\Backup images\\all.png"
+    img.src = "all.png"
 }
 
 function allLHandler(){
     var img = document.getElementById("mapa");
-    img.src = "C:\\Users\\sciev\\OneDrive\\Desktop\\PyCharm Projects\\WBS_GDELT\\Backup images\\all_lines.png"
+    img.src = "all_lines.png"
 }
 
 function chnHandler() {
     var img = document.getElementById("mapa");
-    img.src = "C:\\Users\\sciev\\OneDrive\\Desktop\\PyCharm Projects\\WBS_GDELT\\Backup images\\chn.png"
+    img.src = "chn.png"
 }
 
 function rusHandler() {
     var img = document.getElementById("mapa");
-    img.src = "C:\\Users\\sciev\\OneDrive\\Desktop\\PyCharm Projects\\WBS_GDELT\\Backup images\\rus.png"
+    img.src = "rus.png"
 }
 
 function usaHandler() {
     var img = document.getElementById("mapa");
-    img.src = "C:\\Users\\sciev\\OneDrive\\Desktop\\PyCharm Projects\\WBS_GDELT\\Backup images\\usa.png"
+    img.src = "usa.png"
 }

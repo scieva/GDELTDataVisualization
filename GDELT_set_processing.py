@@ -169,11 +169,9 @@ for row in resultsC:
   lon = float(row.asdict()['long'])
   xpt,ypt = m(lon,lat)
   m.plot([xpt, xptC], [ypt, yptC], 'r.') # only dots
-  # m.plot([xpt, xptC], [ypt, yptC], 'r-', linewidth=1) # connecting lines
 
-plt.show()
 plt.savefig('WBS_GDELT_web/chn.png', bbox_inches='tight')
-# plt.savefig('WBS_GDELT_web/chn.png')
+plt.show()
 
 # SPARQL query to find the attacks pertaining to Russia, and extract the coordinates
 
@@ -202,11 +200,9 @@ for row in resultsR:
   lon = float(row.asdict()['long'])
   xpt,ypt = m(lon,lat)
   m.plot([xpt, xptR], [ypt, yptR], 'r.') # only dots
-  # m.plot([xpt, xptR], [ypt, yptR], 'r-', linewidth=1) # connecting lines
 
-plt.show()
 plt.savefig('WBS_GDELT_web/rus.png', bbox_inches='tight')
-# plt.savefig('WBS_GDELT_web/rus.png')
+plt.show()
 
 # SPARQL query to find the attacks pertaining to USA, and extract the coorsinates
 
@@ -235,18 +231,16 @@ for row in resultsU:
   lon = float(row.asdict()['long'])
   xpt,ypt = m(lon,lat)
   m.plot([xpt, xptU], [ypt, yptU], 'r.') # only dots
-  # m.plot([xpt, xptU], [ypt, yptU], 'r-', linewidth=1) # connecting lines
 
-plt.show()
+
 plt.savefig('WBS_GDELT_web/usa.png', bbox_inches='tight')
-# plt.savefig('WBS_GDELT_web/usa.png')
+plt.show()
 
 plt.figure(figsize=(20,10))
 m = Basemap()
 m.shadedrelief()
-plt.show()
 plt.savefig('WBS_GDELT_web/none.png', bbox_inches='tight')
-# plt.savefig('WBS_GDELT_web/none.png')
+plt.show()
 
 plt.figure(figsize=(20,10))
 m = Basemap()
@@ -285,9 +279,8 @@ for row in resultsU:
   xpt,ypt = m(lon,lat)
   m.plot([xpt, xptU], [ypt, yptU], 'b.')
 
-plt.show()
 plt.savefig('WBS_GDELT_web/all.png', bbox_inches='tight')
-# plt.savefig('WBS_GDELT_web/all.png')
+plt.show()
 
 plt.figure(figsize=(20,10))
 m = Basemap()
@@ -326,6 +319,5 @@ for row in resultsU:
   xpt,ypt = m(lon,lat)
   m.plot([xpt, xptU], [ypt, yptU], 'b-', linewidth=1)
 
-plt.show()
 plt.savefig('WBS_GDELT_web/all_lines.png', bbox_inches='tight')
-# plt.savefig('WBS_GDELT_web/all_lines.png')
+plt.show()
