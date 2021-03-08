@@ -1,0 +1,112 @@
+@prefix ns1: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.dbpedia.org/resource/Israel> a ns1:Thing ;
+    ns1:latitude 38 ;
+    ns1:longitude -97 ;
+    ns1:object <https://www.dbpedia.org/resource/United_States> .
+
+<https://www.dbpedia.org/resource/North_Korea> a ns1:Thing ;
+    ns1:latitude 3.88951e+01 ;
+    ns1:longitude -7.70364e+01 ;
+    ns1:object <https://www.dbpedia.org/resource/China>,
+        <https://www.dbpedia.org/resource/United_States> .
+
+<https://www.dbpedia.org/resource/Palestinian_territories> a ns1:Thing ;
+    ns1:latitude 3.16667e+01 ;
+    ns1:longitude 3.525e+01 ;
+    ns1:object <https://www.dbpedia.org/resource/United_States> .
+
+<https://www.dbpedia.org/resource/Paraguay> a ns1:Thing ;
+    ns1:latitude 3.90646e+01 ;
+    ns1:longitude -1.05327e+02 ;
+    ns1:object <https://www.dbpedia.org/resource/United_States> .
+
+<https://www.dbpedia.org/resource/Refugee> a ns1:Thing ;
+    ns1:latitude 3.79326e+01 ;
+    ns1:longitude 4.19402e+01 ;
+    ns1:object <https://www.dbpedia.org/resource/China> .
+
+<https://www.dbpedia.org/resource/Saudi_Arabia> a ns1:Thing ;
+    ns1:latitude 2.68333e+01 ;
+    ns1:longitude 3.93833e+01 ;
+    ns1:object <https://www.dbpedia.org/resource/United_States> .
+
+<https://www.dbpedia.org/resource/Serbia> a ns1:Thing ;
+    ns1:latitude 4.375e+01 ;
+    ns1:longitude 2.075e+01 ;
+    ns1:object <https://www.dbpedia.org/resource/United_States> .
+
+<https://www.dbpedia.org/resource/Sweden> a ns1:Thing ;
+    ns1:latitude 5.93333e+01 ;
+    ns1:longitude 1.805e+01 ;
+    ns1:object <https://www.dbpedia.org/resource/Russia> .
+
+<https://www.dbpedia.org/resource/Taiwan> a ns1:Thing ;
+    ns1:latitude 2.50478e+01 ;
+    ns1:longitude 1.21532e+02 ;
+    ns1:object <https://www.dbpedia.org/resource/China> .
+
+<https://www.dbpedia.org/resource/Tajikistan> a ns1:Thing ;
+    ns1:latitude 3.856e+01 ;
+    ns1:longitude 6.87739e+01 ;
+    ns1:object <https://www.dbpedia.org/resource/United_States> .
+
+<https://www.dbpedia.org/resource/Thailand> a ns1:Thing ;
+    ns1:latitude 53 ;
+    ns1:longitude 28 ;
+    ns1:object <https://www.dbpedia.org/resource/China> .
+
+<https://www.dbpedia.org/resource/Tibet> a ns1:Thing ;
+    ns1:latitude 32 ;
+    ns1:longitude 90 ;
+    ns1:object <https://www.dbpedia.org/resource/China> .
+
+<https://www.dbpedia.org/resource/Turkey> a ns1:Thing ;
+    ns1:latitude 3.99272e+01 ;
+    ns1:longitude 3.28644e+01 ;
+    ns1:object <https://www.dbpedia.org/resource/Russia>,
+        <https://www.dbpedia.org/resource/United_States> .
+
+<https://www.dbpedia.org/resource/Turkmenistan> a ns1:Thing ;
+    ns1:latitude 3.795e+01 ;
+    ns1:longitude 5.83833e+01 ;
+    ns1:object <https://www.dbpedia.org/resource/Russia> .
+
+<https://www.dbpedia.org/resource/Ukraine> a ns1:Thing ;
+    ns1:latitude 5.04333e+01 ;
+    ns1:longitude 3.05167e+01 ;
+    ns1:object <https://www.dbpedia.org/resource/Russia>,
+        <https://www.dbpedia.org/resource/United_States> .
+
+<https://www.dbpedia.org/resource/Vietnam> a ns1:Thing ;
+    ns1:latitude 16 ;
+    ns1:longitude 106 ;
+    ns1:object <https://www.dbpedia.org/resource/China>,
+        <https://www.dbpedia.org/resource/Russia>,
+        <https://www.dbpedia.org/resource/United_States> .
+
+<https://www.dbpedia.org/resource/Zambia> a ns1:Thing ;
+    ns1:latitude -1.47762e+01 ;
+    ns1:longitude 2.61811e+01 ;
+    ns1:object <https://www.dbpedia.org/resource/United_States> .
+
+<https://www.dbpedia.org/resource/Zimbabwe> a ns1:Thing ;
+    ns1:latitude -20 ;
+    ns1:longitude 30 ;
+    ns1:object <https://www.dbpedia.org/resource/United_States> .
+
+<https://www.dbpedia.org/resource/Russia> a ns1:Thing ;
+    ns1:latitude 4.33e+01 ;
+    ns1:longitude 4.57e+01 ;
+    ns1:object <https://www.dbpedia.org/resource/China>,
+        <https://www.dbpedia.org/resource/Russia>,
+        <https://www.dbpedia.org/resource/United_States> .
+
+<https://www.dbpedia.org/resource/United_States> a ns1:Thing ;
+    ns1:latitude 3.617e+01 ;
+    ns1:longitude -1.19746e+02 ;
+    ns1:object <https://www.dbpedia.org/resource/China>,
+        <https://www.dbpedia.org/resource/Russia>,
+        <https://www.dbpedia.org/resource/United_States> .
+
