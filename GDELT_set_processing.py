@@ -1,4 +1,5 @@
 import csv, json
+import copy
 from rdflib import Graph, URIRef, BNode, Literal, Namespace, XSD
 from rdflib.namespace import RDFS, RDF, FOAF, SDO
 import matplotlib.pyplot as plt
@@ -26,7 +27,6 @@ for i in data:
 for i in data:
     i.pop('Date')
     i.pop('CAMEOCode')
-    i.pop('NumEvents')
     i.pop('NumArts')
     i.pop('QuadClass')
     i.pop('SourceGeoType')
@@ -46,13 +46,22 @@ for i in data:
         del data[j]
     j += 1
 
-# Adding URIs to the Resources
+dataJSON = copy.deepcopy(data)
+for i in dataJSON:
+    i.pop('Goldstein')
+    i.pop('SourceGeoLat')
+    i.pop('SourceGeoLong')
+    i.pop('ActionGeoLat')
+    i.pop('ActionGeoLong')
 
-j = 0
 for i in data:
-    if type(i['SourceGeoLat']) == type(None) or type(i['SourceGeoLong']) == type(None):
-        del data[j]
-    j += 1
+    print(i)
+
+with open('GDELT-data.json', 'w') as json_file:
+    json.dump(dataJSON, json_file, separators=(',', ': '))
+
+for i in data:
+    print(i)
 
 # Adding URIs to the Resouces
 for i in data:

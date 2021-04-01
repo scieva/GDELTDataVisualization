@@ -1,0 +1,452 @@
+[
+    {
+        "Source": "PRK",
+        "Target": "USA",
+        "NumEvents": 5
+    },
+    {
+        "Source": "PRK",
+        "Target": "USA",
+        "NumEvents": 9
+    },
+    {
+        "Source": "PRK",
+        "Target": "USA",
+        "NumEvents": 2
+    },
+    {
+        "Source": "PRY",
+        "Target": "USA",
+        "NumEvents": 1
+    },
+    {
+        "Source": "PSE",
+        "Target": "USA",
+        "NumEvents": 2
+    },
+    {
+        "Source": "PTY",
+        "Target": "USA",
+        "NumEvents": 2
+    },
+    {
+        "Source": "RUSGOV",
+        "Target": "USA",
+        "NumEvents": 3
+    },
+    {
+        "Source": "RUS",
+        "Target": "USA",
+        "NumEvents": 4
+    },
+    {
+        "Source": "RUS",
+        "Target": "USA",
+        "NumEvents": 1
+    },
+    {
+        "Source": "SAU",
+        "Target": "USA",
+        "NumEvents": 1
+    },
+    {
+        "Source": "SCGSRBGOV",
+        "Target": "USA",
+        "NumEvents": 1
+    },
+    {
+        "Source": "TJK",
+        "Target": "USA",
+        "NumEvents": 2
+    },
+    {
+        "Source": "TUR",
+        "Target": "USA",
+        "NumEvents": 4
+    },
+    {
+        "Source": "TUR",
+        "Target": "USA",
+        "NumEvents": 4
+    },
+    {
+        "Source": "TUR",
+        "Target": "USA",
+        "NumEvents": 1
+    },
+    {
+        "Source": "TUR",
+        "Target": "USA",
+        "NumEvents": 1
+    },
+    {
+        "Source": "ukr",
+        "Target": "USA",
+        "NumEvents": 1
+    },
+    {
+        "Source": "USABUS",
+        "Target": "USA",
+        "NumEvents": 1
+    },
+    {
+        "Source": "USACOP",
+        "Target": "USA",
+        "NumEvents": 2
+    },
+    {
+        "Source": "USAELIGOV",
+        "Target": "USA",
+        "NumEvents": 2
+    },
+    {
+        "Source": "USAELI",
+        "Target": "USA",
+        "NumEvents": 1
+    },
+    {
+        "Source": "USAGOV",
+        "Target": "USA",
+        "NumEvents": 1
+    },
+    {
+        "Source": "USAGOV",
+        "Target": "USA",
+        "NumEvents": 1
+    },
+    {
+        "Source": "USAGOV",
+        "Target": "USA",
+        "NumEvents": 4
+    },
+    {
+        "Source": "USAGOV",
+        "Target": "USA",
+        "NumEvents": 1
+    },
+    {
+        "Source": "USAGOV",
+        "Target": "USA",
+        "NumEvents": 1
+    },
+    {
+        "Source": "USAGOV",
+        "Target": "USA",
+        "NumEvents": 2
+    },
+    {
+        "Source": "USAGOV",
+        "Target": "USA",
+        "NumEvents": 2
+    },
+    {
+        "Source": "USAGOV",
+        "Target": "USA",
+        "NumEvents": 1
+    },
+    {
+        "Source": "USAGOV",
+        "Target": "USA",
+        "NumEvents": 1
+    },
+    {
+        "Source": "USAGOV",
+        "Target": "USA",
+        "NumEvents": 2
+    },
+    {
+        "Source": "USAGOV",
+        "Target": "USA",
+        "NumEvents": 3
+    },
+    {
+        "Source": "USAGOV",
+        "Target": "USA",
+        "NumEvents": 1
+    },
+    {
+        "Source": "USAJUD",
+        "Target": "USA",
+        "NumEvents": 1
+    },
+    {
+        "Source": "USAJUD",
+        "Target": "USA",
+        "NumEvents": 1
+    },
+    {
+        "Source": "VNM",
+        "Target": "USA",
+        "NumEvents": 1
+    },
+    {
+        "Source": "ZMBGOV",
+        "Target": "USA",
+        "NumEvents": 1
+    },
+    {
+        "Source": "ZMB",
+        "Target": "USA",
+        "NumEvents": 1
+    },
+    {
+        "Source": "ZWE",
+        "Target": "USA",
+        "NumEvents": 2
+    },
+    {
+        "Source": "PRK",
+        "Target": "CHN",
+        "NumEvents": 1
+    },
+    {
+        "Source": "PRK",
+        "Target": "CHN",
+        "NumEvents": 2
+    },
+    {
+        "Source": "REF",
+        "Target": "CHN",
+        "NumEvents": 1
+    },
+    {
+        "Source": "REF",
+        "Target": "CHN",
+        "NumEvents": 1
+    },
+    {
+        "Source": "RUS",
+        "Target": "CHN",
+        "NumEvents": 1
+    },
+    {
+        "Source": "RUS",
+        "Target": "CHN",
+        "NumEvents": 2
+    },
+    {
+        "Source": "SEP",
+        "Target": "CHN",
+        "NumEvents": 1
+    },
+    {
+        "Source": "tib",
+        "Target": "CHN",
+        "NumEvents": 2
+    },
+    {
+        "Source": "TWN",
+        "Target": "CHN",
+        "NumEvents": 1
+    },
+    {
+        "Source": "TWN",
+        "Target": "CHN",
+        "NumEvents": 2
+    },
+    {
+        "Source": "TWN",
+        "Target": "CHN",
+        "NumEvents": 1
+    },
+    {
+        "Source": "TWN",
+        "Target": "CHN",
+        "NumEvents": 2
+    },
+    {
+        "Source": "USA",
+        "Target": "CHN",
+        "NumEvents": 2
+    },
+    {
+        "Source": "USA",
+        "Target": "CHN",
+        "NumEvents": 2
+    },
+    {
+        "Source": "USAEDU",
+        "Target": "CHN",
+        "NumEvents": 1
+    },
+    {
+        "Source": "VNM",
+        "Target": "CHN",
+        "NumEvents": 1
+    },
+    {
+        "Source": "RUSGOV",
+        "Target": "RUS",
+        "NumEvents": 6
+    },
+    {
+        "Source": "RUSGOV",
+        "Target": "RUS",
+        "NumEvents": 1
+    },
+    {
+        "Source": "RUSGOV",
+        "Target": "RUS",
+        "NumEvents": 3
+    },
+    {
+        "Source": "RUSGOV",
+        "Target": "RUS",
+        "NumEvents": 6
+    },
+    {
+        "Source": "RUSGOV",
+        "Target": "RUS",
+        "NumEvents": 3
+    },
+    {
+        "Source": "RUSGOV",
+        "Target": "RUS",
+        "NumEvents": 2
+    },
+    {
+        "Source": "RUSGOV",
+        "Target": "RUS",
+        "NumEvents": 1
+    },
+    {
+        "Source": "RUSGOV",
+        "Target": "RUS",
+        "NumEvents": 3
+    },
+    {
+        "Source": "RUSGOV",
+        "Target": "RUS",
+        "NumEvents": 1
+    },
+    {
+        "Source": "RUSGOV",
+        "Target": "RUS",
+        "NumEvents": 1
+    },
+    {
+        "Source": "RUSJUD",
+        "Target": "RUS",
+        "NumEvents": 1
+    },
+    {
+        "Source": "RUSMED",
+        "Target": "RUS",
+        "NumEvents": 1
+    },
+    {
+        "Source": "RUSMIL",
+        "Target": "RUS",
+        "NumEvents": 1
+    },
+    {
+        "Source": "RUSREL",
+        "Target": "RUS",
+        "NumEvents": 1
+    },
+    {
+        "Source": "SPY",
+        "Target": "RUS",
+        "NumEvents": 1
+    },
+    {
+        "Source": "SWE",
+        "Target": "RUS",
+        "NumEvents": 2
+    },
+    {
+        "Source": "TKM",
+        "Target": "RUS",
+        "NumEvents": 1
+    },
+    {
+        "Source": "TUR",
+        "Target": "RUS",
+        "NumEvents": 2
+    },
+    {
+        "Source": "UKRGOV",
+        "Target": "RUS",
+        "NumEvents": 1
+    },
+    {
+        "Source": "UKR",
+        "Target": "RUS",
+        "NumEvents": 1
+    },
+    {
+        "Source": "UKR",
+        "Target": "RUS",
+        "NumEvents": 4
+    },
+    {
+        "Source": "USAGOV",
+        "Target": "RUS",
+        "NumEvents": 2
+    },
+    {
+        "Source": "USAGOV",
+        "Target": "RUS",
+        "NumEvents": 2
+    },
+    {
+        "Source": "USAGUM",
+        "Target": "RUS",
+        "NumEvents": 1
+    },
+    {
+        "Source": "USAMED",
+        "Target": "RUS",
+        "NumEvents": 1
+    },
+    {
+        "Source": "USA",
+        "Target": "RUS",
+        "NumEvents": 3
+    },
+    {
+        "Source": "USA",
+        "Target": "RUS",
+        "NumEvents": 1
+    },
+    {
+        "Source": "USA",
+        "Target": "RUS",
+        "NumEvents": 1
+    },
+    {
+        "Source": "USA",
+        "Target": "RUS",
+        "NumEvents": 4
+    },
+    {
+        "Source": "USA",
+        "Target": "RUS",
+        "NumEvents": 1
+    },
+    {
+        "Source": "USA",
+        "Target": "RUS",
+        "NumEvents": 4
+    },
+    {
+        "Source": "USA",
+        "Target": "RUS",
+        "NumEvents": 1
+    },
+    {
+        "Source": "VNM",
+        "Target": "RUS",
+        "NumEvents": 2
+    },
+    {
+        "Source": "VNM",
+        "Target": "RUS",
+        "NumEvents": 3
+    },
+    {
+        "Source": "VNM",
+        "Target": "RUS",
+        "NumEvents": 1
+    }
+]
