@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Directed Chord Diagram</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+</head>
+
+<body>
+    <div id="observablehq-chart-6077920f" style="width: 45%; margin: auto;"></div>
+
+    <script type="module">
+        import { Runtime, Inspector } from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+        import define from "https://api.observablehq.com/@d3/directed-chord-diagram.js?v=3";
+
+        const runtime = new Runtime()
+        
+        const module = runtime.module(define, name => {
+            if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-6077920f"));
+        });
+
+        // Redefine the cell “data” as the contents of the local file population.json;
+        // this will affect the chart embedded above.
+        var podatoci = `source,target,value
+PRK,USA,5
+PRK,USA,9
+PRK,USA,2
+RUS,USA,4
+RUS,USA,1
+TUR,USA,4
+TUR,USA,4
+TUR,USA,1
+TUR,USA,1
+USA,USA,1
+USA,USA,1
+USA,USA,4
+USA,USA,1
+USA,USA,1
+USA,USA,2
+USA,USA,2
+USA,USA,1
+USA,USA,1
+USA,USA,2
+USA,USA,3
+USA,USA,1
+USA,USA,1
+USA,USA,1
+VNM,USA,1
+ZMB,USA,1
+ZMB,USA,1
+PRK,CHN,1
+PRK,CHN,2
+RUS,CHN,1
+RUS,CHN,2
+TWN,CHN,1
+TWN,CHN,2
+TWN,CHN,1
+TWN,CHN,2
+USA,CHN,2
+USA,CHN,2
+USA,CHN,1
+VNM,CHN,1
+RUS,RUS,6
+RUS,RUS,1
+RUS,RUS,3
+RUS,RUS,6
+RUS,RUS,3
+RUS,RUS,2
+RUS,RUS,1
+RUS,RUS,3
+RUS,RUS,1
+RUS,RUS,1
+RUS,RUS,1
+RUS,RUS,1
+RUS,RUS,1
+RUS,RUS,1
+SWE,RUS,2
+TKM,RUS,1
+TUR,RUS,2
+UKR,RUS,1
+UKR,RUS,1
+UKR,RUS,4
+USA,RUS,2
+USA,RUS,2
+USA,RUS,1
+USA,RUS,1
+USA,RUS,3
+USA,RUS,1
+USA,RUS,1
+USA,RUS,4
+USA,RUS,1
+USA,RUS,4
+USA,RUS,1
+VNM,RUS,2
+VNM,RUS,3
+VNM,RUS,1`
+
+        var newData = d3.csvParse(podatoci);
+
+        // console.log("newData:")
+        // console.log(newData)
+
+        module.redefine("data", newData);
+
+        var newNames = new Array();
+        // console.log(newNames)
+
+        for (var i in newData) {
+            if (!newNames.includes(newData[i].source)) {
+                newNames.push(newData[i].source);
+            }
+            if (!newNames.includes(newData[i].target)) {
+                newNames.push(newData[i].target);
+            }
+        }
+
+        //console.log(newNames)
+
+        module.redefine("names", newNames)
+
+
+        var index = new Map(newNames.map((ime, i) => [ime, i]));
+        // console.log(newIndex)
+
+        var newMatrix = Array.from(index, () => new Array(newNames.length).fill(0));
+        // console.log(newMatrix)
+
+        for (const { source, target, value } of newData) {
+            newMatrix[index.get(source)][index.get(target)] += parseFloat(value);
+            // console.log("Source: " + source + ", Target: " + target + ", Value: " + value);
+        }
+        // console.log(newMatrix)
+
+        module.redefine("matrix", newMatrix)
+    </script>
+</body>
+</html>

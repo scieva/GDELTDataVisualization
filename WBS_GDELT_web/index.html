@@ -5,23 +5,71 @@
     <title>WBS - GDELT</title>
     <script type="text/javascript" src="js_ndex.js"></script>
     <style>
+        body{
+            background-image: url("cool-background.png");
+        }
+
         input{
             font-size: large;
         }
+
         div{
             margin-top: 20px;
+        }
+
+        .button3{
+            display: inline-block;
+            padding: 0.3em 1.2em;
+            margin: 0 0.3em 0.3em 0;
+            border-radius: 2em;
+            box-sizing: border-box;
+            text-decoration: none;
+            font-family: 'Roboto',sans-serif;
+            font-weight: 300;
+            color: #FFFFFF;
+            background-color: #4eb5f1;
+            text-align: center;
+            transition: all 0.2s;
+        }
+
+        .button3:hover{
+            background-color: #4095c6;
+        }
+
+        @media all and (max-width:30em){
+            .button3{
+            display: block;
+            margin: 0.2em auto;
+            }
+        }
+
+        .bouncy{
+            animation: bouncy 5s infinite linear;
+            position: relative;
+        }
+
+        @keyframes bouncy {
+            0% { top: 0em }
+            40% { top: 0em }
+            43% { top: -0.9em }
+            46% { top: 0em }
+            48% { top: -0.4em }
+            50% { top: 0em }
+            100% { top: 0em; }
         }
     </style>
 </head>
 <body>
-    <input type="button" value="None" onclick="noneHandler()">
-    <input type="button" value="All w/ Dots" onclick="allHandler()">
-    <input type="button" value="All w/ Lines" onclick="allLHandler()">
-    <input type="button" value="China" onclick="chnHandler()">
-    <input type="button" value="Russia" onclick="rusHandler()">
-    <input type="button" value="USA" onclick="usaHandler()">
+    <input type="button" class="button3 bouncy" value="None" onclick="noneHandler()">
+    <input type="button" class="button3 bouncy" style="animation-delay:0.07s" value="All w/ Dots" onclick="allHandler()">
+    <input type="button" class="button3 bouncy" style="animation-delay:0.14s" value="All w/ Lines" onclick="allLHandler()">
+    <input type="button" class="button3 bouncy" style="animation-delay:0.21s" value="China" onclick="chnHandler()">
+    <input type="button" class="button3 bouncy" style="animation-delay:0.28s" value="Russia" onclick="rusHandler()">
+    <input type="button" class="button3 bouncy" style="animation-delay:0.35s" value="USA" onclick="usaHandler()">
+    <input type="button" class="button3 bouncy" style="animation-delay:0.42s" value="D3JS" onclick="hideImg()">
     <div>
-        <img id="mapa" src="none.png">
+        <img id="mapa" src="none.png" style="display: block; width: 90%; margin: auto;">
     </div>
+    <iframe src="http://127.0.0.1:8080/" id='d3' width="100%" height="900px" style="display: none;" frameborder="0"></iframe>
 </body>
 </html>
