@@ -483,37 +483,32 @@
         });
         console.log(newLinks);
 
+        // try to take distinct sources, and those to be the IDs, and for group just iterate through them and +1
+
         var newNodes = [{id: "USA", group: 1}, {id: "CHN", group: 2}, {id: "RUS", group: 3}]
         // console.log(newNodes)
 
         //var newNodes = new Object();
         // console.log(newNodes)
         // var groupIter = 1;
-        //newNodes.push("test")
-        // newNodes.push({id : "abc", group: 1});
-        //newNodes.push({id : "def", group: 2});
-        //console.log(Object.entries(newNodes));
-        //newLinks.forEach(element => {
 
-    newLinks.forEach(element => {
-        if(element.target.match("USA")){
-            newNodes.push({id: element.source, group: 1})
-        }
-        else if(element.target.match("CHN")){
-            newNodes.push({id: element.source, group: 2})
-        }
-        else if(element.target.match("RUS")){
-            newNodes.push({id: element.source, group: 3})
-        }
-        // .includes("abc")
-        else {
-            console.log("ERROR OCURRED")
-            // newNodes.push({id: element.source, group: groupIter}) // probaj da dodavas samo simple, dali uspeva da stavi i togas proveruvaj
-            // a posle toa ako e OK, dodavaj na komliciraniot nacin
-            // groupIter ++
-            // console.log(groupIter)
-        }
-    });
+        newLinks.forEach(element => {
+            if(element.target.match("USA") && !element.source.match("USA")){
+                newNodes.push({id: element.source, group: 1})
+            }
+            else if(element.target.match("CHN") && !element.source.match("CHN")){
+                newNodes.push({id: element.source, group: 2})
+            }
+            else if(element.target.match("RUS") && !element.source.match("RUS")){
+                newNodes.push({id: element.source, group: 3})
+            }
+            else {
+                console.log("ERROR OCURRED")
+                console.log("source: " + element.source, "target: " + element.target)
+                // groupIter ++
+                // console.log(groupIter)
+            }
+        });
         console.log(newNodes)
 
         var newData = {nodes: newNodes, links: newLinks}
