@@ -3,6 +3,7 @@ function noneHandler(){
     img.src = "none.png"
     img.style.display = 'block'
     document.getElementById('dc').style.display = 'none'
+    document.getElementById('fdd').style.display = 'none'
 }
 
 function allHandler(){
@@ -10,6 +11,7 @@ function allHandler(){
     img.src = "all.png"
     img.style.display = 'block'
     document.getElementById('dc').style.display = 'none'
+    document.getElementById('fdd').style.display = 'none'
 }
 
 function allLHandler(){
@@ -17,6 +19,7 @@ function allLHandler(){
     img.src = "all_lines.png"
     img.style.display = 'block'
     document.getElementById('dc').style.display = 'none'
+    document.getElementById('fdd').style.display = 'none'
 }
 
 function chnHandler() {
@@ -24,6 +27,7 @@ function chnHandler() {
     img.src = "chn.png"
     img.style.display = 'block'
     document.getElementById('dc').style.display = 'none'
+    document.getElementById('fdd').style.display = 'none'
 }
 
 function rusHandler() {
@@ -31,6 +35,7 @@ function rusHandler() {
     img.src = "rus.png"
     img.style.display = 'block'
     document.getElementById('dc').style.display = 'none'
+    document.getElementById('fdd').style.display = 'none'
 }
 
 function usaHandler() {
@@ -38,10 +43,19 @@ function usaHandler() {
     img.src = "usa.png"
     img.style.display = 'block'
     document.getElementById('dc').style.display = 'none'
+    document.getElementById('fdd').style.display = 'none'
 }
 
-function hideImg() {
+function hideDC() {
     var img = document.getElementById("mapa");
     img.style.display = 'none'
     document.getElementById('dc').style.display = 'block'
+    document.getElementById('fdd').style.display = 'none'
+}
+
+function hideFDD() {
+    var img = document.getElementById("mapa");
+    img.style.display = 'none'
+    document.getElementById('fdd').style.display = 'block'
+    document.getElementById('dc').style.display = 'none'
 }
