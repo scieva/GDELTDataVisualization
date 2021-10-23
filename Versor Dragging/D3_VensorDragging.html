@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Vensor Dragging Diagram</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+</head>
+<body>
+<div id="observablehq-chart-b1655356"></div>
+<div id="observablehq-viewof-projectionName-b1655356"></div>
+
+<script type="module">
+    import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+    import define from "https://api.observablehq.com/@d3/versor-dragging.js?v=3";
+    new Runtime().module(define, name => {
+        if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-b1655356"));
+        if (name === "viewof projectionName") return new Inspector(document.querySelector("#observablehq-viewof-projectionName-b1655356"));
+        return ["projection","height"].includes(name);
+    });
+</script>
+</body>
+</html>
