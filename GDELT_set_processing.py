@@ -26,7 +26,6 @@ for i in data:
 
 for i in data:
     i.pop('Date')
-    i.pop('CAMEOCode')
     i.pop('NumArts')
     i.pop('QuadClass')
     i.pop('SourceGeoType')
@@ -53,12 +52,13 @@ for i in dataJSON:
     i.pop('SourceGeoLong')
     i.pop('ActionGeoLat')
     i.pop('ActionGeoLong')
+    i.pop('NumEvents')
 
-for i in data:
+for i in dataJSON:
     print(i)
 
 with open('GDELT-data.json', 'w') as json_file:
-    json.dump(dataJSON, json_file, separators=(',', ': '))
+    json.dump(dataJSON, json_file, separators=(',', ': '))\
 
 for i in data:
     print(i)

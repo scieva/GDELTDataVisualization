@@ -2,451 +2,451 @@
     {
         "Source": "PRK",
         "Target": "USA",
-        "NumEvents": 5
+        "CAMEOCode": 40
     },
     {
         "Source": "PRK",
         "Target": "USA",
-        "NumEvents": 9
+        "CAMEOCode": 46
     },
     {
         "Source": "PRK",
         "Target": "USA",
-        "NumEvents": 2
+        "CAMEOCode": 51
     },
     {
         "Source": "PRY",
         "Target": "USA",
-        "NumEvents": 1
+        "CAMEOCode": 172
     },
     {
         "Source": "PSE",
         "Target": "USA",
-        "NumEvents": 2
+        "CAMEOCode": 10
     },
     {
         "Source": "PTY",
         "Target": "USA",
-        "NumEvents": 2
+        "CAMEOCode": 36
     },
     {
         "Source": "RUSGOV",
         "Target": "USA",
-        "NumEvents": 3
+        "CAMEOCode": 42
     },
     {
         "Source": "RUS",
         "Target": "USA",
-        "NumEvents": 4
+        "CAMEOCode": 36
     },
     {
         "Source": "RUS",
         "Target": "USA",
-        "NumEvents": 1
+        "CAMEOCode": 42
     },
     {
         "Source": "SAU",
         "Target": "USA",
-        "NumEvents": 1
+        "CAMEOCode": 43
     },
     {
         "Source": "SCGSRBGOV",
         "Target": "USA",
-        "NumEvents": 1
+        "CAMEOCode": 51
     },
     {
         "Source": "TJK",
         "Target": "USA",
-        "NumEvents": 2
+        "CAMEOCode": 43
     },
     {
         "Source": "TUR",
         "Target": "USA",
-        "NumEvents": 4
+        "CAMEOCode": 20
     },
     {
         "Source": "TUR",
         "Target": "USA",
-        "NumEvents": 4
+        "CAMEOCode": 32
     },
     {
         "Source": "TUR",
         "Target": "USA",
-        "NumEvents": 1
+        "CAMEOCode": 51
     },
     {
         "Source": "TUR",
         "Target": "USA",
-        "NumEvents": 1
+        "CAMEOCode": 173
     },
     {
         "Source": "ukr",
         "Target": "USA",
-        "NumEvents": 1
+        "CAMEOCode": 42
     },
     {
         "Source": "USABUS",
         "Target": "USA",
-        "NumEvents": 1
+        "CAMEOCode": 57
     },
     {
         "Source": "USACOP",
         "Target": "USA",
-        "NumEvents": 2
+        "CAMEOCode": 40
     },
     {
         "Source": "USAELIGOV",
         "Target": "USA",
-        "NumEvents": 2
+        "CAMEOCode": 46
     },
     {
         "Source": "USAELI",
         "Target": "USA",
-        "NumEvents": 1
+        "CAMEOCode": 121
     },
     {
         "Source": "USAGOV",
         "Target": "USA",
-        "NumEvents": 1
+        "CAMEOCode": 10
     },
     {
         "Source": "USAGOV",
         "Target": "USA",
-        "NumEvents": 1
+        "CAMEOCode": 13
     },
     {
         "Source": "USAGOV",
         "Target": "USA",
-        "NumEvents": 4
+        "CAMEOCode": 20
     },
     {
         "Source": "USAGOV",
         "Target": "USA",
-        "NumEvents": 1
+        "CAMEOCode": 30
     },
     {
         "Source": "USAGOV",
         "Target": "USA",
-        "NumEvents": 1
+        "CAMEOCode": 36
     },
     {
         "Source": "USAGOV",
         "Target": "USA",
-        "NumEvents": 2
+        "CAMEOCode": 40
     },
     {
         "Source": "USAGOV",
         "Target": "USA",
-        "NumEvents": 2
+        "CAMEOCode": 42
     },
     {
         "Source": "USAGOV",
         "Target": "USA",
-        "NumEvents": 1
+        "CAMEOCode": 51
     },
     {
         "Source": "USAGOV",
         "Target": "USA",
-        "NumEvents": 1
+        "CAMEOCode": 84
     },
     {
         "Source": "USAGOV",
         "Target": "USA",
-        "NumEvents": 2
+        "CAMEOCode": 114
     },
     {
         "Source": "USAGOV",
         "Target": "USA",
-        "NumEvents": 3
+        "CAMEOCode": 120
     },
     {
         "Source": "USAGOV",
         "Target": "USA",
-        "NumEvents": 1
+        "CAMEOCode": 186
     },
     {
         "Source": "USAJUD",
         "Target": "USA",
-        "NumEvents": 1
+        "CAMEOCode": 13
     },
     {
         "Source": "USAJUD",
         "Target": "USA",
-        "NumEvents": 1
+        "CAMEOCode": 40
     },
     {
         "Source": "VNM",
         "Target": "USA",
-        "NumEvents": 1
+        "CAMEOCode": 40
     },
     {
         "Source": "ZMBGOV",
         "Target": "USA",
-        "NumEvents": 1
+        "CAMEOCode": 172
     },
     {
         "Source": "ZMB",
         "Target": "USA",
-        "NumEvents": 1
+        "CAMEOCode": 172
     },
     {
         "Source": "ZWE",
         "Target": "USA",
-        "NumEvents": 2
+        "CAMEOCode": 40
     },
     {
         "Source": "PRK",
         "Target": "CHN",
-        "NumEvents": 1
+        "CAMEOCode": 36
     },
     {
         "Source": "PRK",
         "Target": "CHN",
-        "NumEvents": 2
+        "CAMEOCode": 42
     },
     {
         "Source": "REF",
         "Target": "CHN",
-        "NumEvents": 1
+        "CAMEOCode": 10
     },
     {
         "Source": "REF",
         "Target": "CHN",
-        "NumEvents": 1
+        "CAMEOCode": 12
     },
     {
         "Source": "RUS",
         "Target": "CHN",
-        "NumEvents": 1
+        "CAMEOCode": 20
     },
     {
         "Source": "RUS",
         "Target": "CHN",
-        "NumEvents": 2
+        "CAMEOCode": 36
     },
     {
         "Source": "SEP",
         "Target": "CHN",
-        "NumEvents": 1
+        "CAMEOCode": 43
     },
     {
         "Source": "tib",
         "Target": "CHN",
-        "NumEvents": 2
+        "CAMEOCode": 40
     },
     {
         "Source": "TWN",
         "Target": "CHN",
-        "NumEvents": 1
+        "CAMEOCode": 10
     },
     {
         "Source": "TWN",
         "Target": "CHN",
-        "NumEvents": 2
+        "CAMEOCode": 110
     },
     {
         "Source": "TWN",
         "Target": "CHN",
-        "NumEvents": 1
+        "CAMEOCode": 130
     },
     {
         "Source": "TWN",
         "Target": "CHN",
-        "NumEvents": 2
+        "CAMEOCode": 164
     },
     {
         "Source": "USA",
         "Target": "CHN",
-        "NumEvents": 2
+        "CAMEOCode": 36
     },
     {
         "Source": "USA",
         "Target": "CHN",
-        "NumEvents": 2
+        "CAMEOCode": 42
     },
     {
         "Source": "USAEDU",
         "Target": "CHN",
-        "NumEvents": 1
+        "CAMEOCode": 42
     },
     {
         "Source": "VNM",
         "Target": "CHN",
-        "NumEvents": 1
+        "CAMEOCode": 42
     },
     {
         "Source": "RUSGOV",
         "Target": "RUS",
-        "NumEvents": 6
+        "CAMEOCode": 10
     },
     {
         "Source": "RUSGOV",
         "Target": "RUS",
-        "NumEvents": 1
+        "CAMEOCode": 17
     },
     {
         "Source": "RUSGOV",
         "Target": "RUS",
-        "NumEvents": 3
+        "CAMEOCode": 30
     },
     {
         "Source": "RUSGOV",
         "Target": "RUS",
-        "NumEvents": 6
+        "CAMEOCode": 36
     },
     {
         "Source": "RUSGOV",
         "Target": "RUS",
-        "NumEvents": 3
+        "CAMEOCode": 42
     },
     {
         "Source": "RUSGOV",
         "Target": "RUS",
-        "NumEvents": 2
+        "CAMEOCode": 43
     },
     {
         "Source": "RUSGOV",
         "Target": "RUS",
-        "NumEvents": 1
+        "CAMEOCode": 46
     },
     {
         "Source": "RUSGOV",
         "Target": "RUS",
-        "NumEvents": 3
+        "CAMEOCode": 57
     },
     {
         "Source": "RUSGOV",
         "Target": "RUS",
-        "NumEvents": 1
+        "CAMEOCode": 60
     },
     {
         "Source": "RUSGOV",
         "Target": "RUS",
-        "NumEvents": 1
+        "CAMEOCode": 100
     },
     {
         "Source": "RUSJUD",
         "Target": "RUS",
-        "NumEvents": 1
+        "CAMEOCode": 10
     },
     {
         "Source": "RUSMED",
         "Target": "RUS",
-        "NumEvents": 1
+        "CAMEOCode": 46
     },
     {
         "Source": "RUSMIL",
         "Target": "RUS",
-        "NumEvents": 1
+        "CAMEOCode": 60
     },
     {
         "Source": "RUSREL",
         "Target": "RUS",
-        "NumEvents": 1
+        "CAMEOCode": 10
     },
     {
         "Source": "SPY",
         "Target": "RUS",
-        "NumEvents": 1
+        "CAMEOCode": 10
     },
     {
         "Source": "SWE",
         "Target": "RUS",
-        "NumEvents": 2
+        "CAMEOCode": 43
     },
     {
         "Source": "TKM",
         "Target": "RUS",
-        "NumEvents": 1
+        "CAMEOCode": 20
     },
     {
         "Source": "TUR",
         "Target": "RUS",
-        "NumEvents": 2
+        "CAMEOCode": 36
     },
     {
         "Source": "UKRGOV",
         "Target": "RUS",
-        "NumEvents": 1
+        "CAMEOCode": 40
     },
     {
         "Source": "UKR",
         "Target": "RUS",
-        "NumEvents": 1
+        "CAMEOCode": 36
     },
     {
         "Source": "UKR",
         "Target": "RUS",
-        "NumEvents": 4
+        "CAMEOCode": 71
     },
     {
         "Source": "USAGOV",
         "Target": "RUS",
-        "NumEvents": 2
+        "CAMEOCode": 42
     },
     {
         "Source": "USAGOV",
         "Target": "RUS",
-        "NumEvents": 2
+        "CAMEOCode": 57
     },
     {
         "Source": "USAGUM",
         "Target": "RUS",
-        "NumEvents": 1
+        "CAMEOCode": 20
     },
     {
         "Source": "USAMED",
         "Target": "RUS",
-        "NumEvents": 1
+        "CAMEOCode": 20
     },
     {
         "Source": "USA",
         "Target": "RUS",
-        "NumEvents": 3
+        "CAMEOCode": 10
     },
     {
         "Source": "USA",
         "Target": "RUS",
-        "NumEvents": 1
+        "CAMEOCode": 16
     },
     {
         "Source": "USA",
         "Target": "RUS",
-        "NumEvents": 1
+        "CAMEOCode": 20
     },
     {
         "Source": "USA",
         "Target": "RUS",
-        "NumEvents": 4
+        "CAMEOCode": 36
     },
     {
         "Source": "USA",
         "Target": "RUS",
-        "NumEvents": 1
+        "CAMEOCode": 43
     },
     {
         "Source": "USA",
         "Target": "RUS",
-        "NumEvents": 4
+        "CAMEOCode": 51
     },
     {
         "Source": "USA",
         "Target": "RUS",
-        "NumEvents": 1
+        "CAMEOCode": 100
     },
     {
         "Source": "VNM",
         "Target": "RUS",
-        "NumEvents": 2
+        "CAMEOCode": 42
     },
     {
         "Source": "VNM",
         "Target": "RUS",
-        "NumEvents": 3
+        "CAMEOCode": 43
     },
     {
         "Source": "VNM",
         "Target": "RUS",
-        "NumEvents": 1
+        "CAMEOCode": 162
     }
 ]

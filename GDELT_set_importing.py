@@ -3,7 +3,7 @@ import csv, json
 csvFilePath = 'GDELT.MASTERREDUCEDV2.TXT'
 csvfile = open(csvFilePath, 'r')
 
-jsonFilePath = 'GDELT.MASTERREDUCEDV2.json'
+jsonFilePath = 'GDELT.MASTERREDUCEDV2-1.json'
 jsonfile = open(jsonFilePath, 'w')
 
 fieldnames = ("Date", "Source", "Target", "CAMEOCode", "NumEvents", "NumArts", "QuadClass", "Goldstein", "SourceGeoType", "SourceGeoLat", "SourceGeoLong", "TargetGeoType", "TargetGeoLat", "TargetGeoLong", "ActionGeoType", "ActionGeoLat", "ActionGeoLong")
