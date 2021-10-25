@@ -1,1 +1,882 @@
-[{"Source": "https://www.dbpedia.org/resource/North_Korea","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 5,"Goldstein": 1,"SourceGeoLat": 38.8951,"SourceGeoLong": -77.0364,"ActionGeoLat": 38.8951,"ActionGeoLong": -77.0364},{"Source": "https://www.dbpedia.org/resource/North_Korea","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 9,"Goldstein": 7,"SourceGeoLat": 40,"SourceGeoLong": 127,"ActionGeoLat": 40,"ActionGeoLong": 127},{"Source": "https://www.dbpedia.org/resource/North_Korea","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 2,"Goldstein": 3.4,"SourceGeoLat": 38.8951,"SourceGeoLong": -77.0364,"ActionGeoLat": 38.8951,"ActionGeoLong": -77.0364},{"Source": "https://www.dbpedia.org/resource/Paraguay","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 1,"Goldstein": -5,"SourceGeoLat": 39.0646,"SourceGeoLong": -105.327,"ActionGeoLat": 39.0646,"ActionGeoLong": -105.327},{"Source": "https://www.dbpedia.org/resource/Palestinian_territories","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 2,"Goldstein": 0,"SourceGeoLat": 31.6667,"SourceGeoLong": 35.25,"ActionGeoLat": 31.6667,"ActionGeoLong": 35.25},{"Source": "https://www.dbpedia.org/resource/Israel","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 2,"Goldstein": 4,"SourceGeoLat": 38,"SourceGeoLong": -97,"ActionGeoLat": 38,"ActionGeoLong": -97},{"Source": "https://www.dbpedia.org/resource/Russia","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 3,"Goldstein": 1.9,"SourceGeoLat": 43.3,"SourceGeoLong": 45.7,"ActionGeoLat": 43.3,"ActionGeoLong": 45.7},{"Source": "https://www.dbpedia.org/resource/Russia","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 4,"Goldstein": 4,"SourceGeoLat": 60,"SourceGeoLong": 100,"ActionGeoLat": 60,"ActionGeoLong": 100},{"Source": "https://www.dbpedia.org/resource/Russia","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 1,"Goldstein": 1.9,"SourceGeoLat": 60,"SourceGeoLong": 100,"ActionGeoLat": 60,"ActionGeoLong": 100},{"Source": "https://www.dbpedia.org/resource/Saudi_Arabia","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 1,"Goldstein": 2.8,"SourceGeoLat": 26.8333,"SourceGeoLong": 39.3833,"ActionGeoLat": 35.75,"ActionGeoLong": 51.5148},{"Source": "https://www.dbpedia.org/resource/Serbia","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 1,"Goldstein": 3.4,"SourceGeoLat": 43.75,"SourceGeoLong": 20.75,"ActionGeoLat": 43.75,"ActionGeoLong": 20.75},{"Source": "https://www.dbpedia.org/resource/Tajikistan","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 2,"Goldstein": 2.8,"SourceGeoLat": 38.56,"SourceGeoLong": 68.7739,"ActionGeoLat": 38.8951,"ActionGeoLong": -77.0364},{"Source": "https://www.dbpedia.org/resource/Turkey","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 4,"Goldstein": 3,"SourceGeoLat": 39.9272,"SourceGeoLong": 32.8644,"ActionGeoLat": 33.3386,"ActionGeoLong": 44.3939},{"Source": "https://www.dbpedia.org/resource/Turkey","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 4,"Goldstein": 4.5,"SourceGeoLat": 39.9272,"SourceGeoLong": 32.8644,"ActionGeoLat": 39.9272,"ActionGeoLong": 32.8644},{"Source": "https://www.dbpedia.org/resource/Turkey","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 1,"Goldstein": 3.4,"SourceGeoLat": 39.9272,"SourceGeoLong": 32.8644,"ActionGeoLat": 39.9272,"ActionGeoLong": 32.8644},{"Source": "https://www.dbpedia.org/resource/Turkey","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 1,"Goldstein": -5,"SourceGeoLat": 39.9272,"SourceGeoLong": 32.8644,"ActionGeoLat": 39.9272,"ActionGeoLong": 32.8644},{"Source": "https://www.dbpedia.org/resource/Ukraine","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 1,"Goldstein": 1.9,"SourceGeoLat": 50.4333,"SourceGeoLong": 30.5167,"ActionGeoLat": 55.7522,"ActionGeoLong": 37.6156},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 1,"Goldstein": 8,"SourceGeoLat": 36.17,"SourceGeoLong": -119.746,"ActionGeoLat": 36.17,"ActionGeoLong": -119.746},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 2,"Goldstein": 1,"SourceGeoLat": 31.5,"SourceGeoLong": 34.75,"ActionGeoLat": 31.5,"ActionGeoLong": 34.75},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 2,"Goldstein": 7,"SourceGeoLat": 38,"SourceGeoLong": -97,"ActionGeoLat": 31.5333,"ActionGeoLong": 35.1},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 1,"Goldstein": -4,"SourceGeoLat": 42.1497,"SourceGeoLong": -74.9384,"ActionGeoLat": 42.1497,"ActionGeoLong": -74.9384},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 1,"Goldstein": 0,"SourceGeoLat": 38,"SourceGeoLong": -97,"ActionGeoLat": -4.66,"ActionGeoLong": 30.6689},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 1,"Goldstein": 0.4,"SourceGeoLat": 38.8951,"SourceGeoLong": -77.0364,"ActionGeoLat": 38.8951,"ActionGeoLong": -77.0364},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 4,"Goldstein": 3,"SourceGeoLat": 38.8951,"SourceGeoLong": -77.0364,"ActionGeoLat": 38.8951,"ActionGeoLong": -77.0364},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 1,"Goldstein": 4,"SourceGeoLat": 38,"SourceGeoLong": -97,"ActionGeoLat": 38,"ActionGeoLong": -97},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 1,"Goldstein": 4,"SourceGeoLat": 31.5,"SourceGeoLong": 34.75,"ActionGeoLat": 31.5,"ActionGeoLong": 34.75},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 2,"Goldstein": 1,"SourceGeoLat": 38.8951,"SourceGeoLong": -77.0364,"ActionGeoLat": 37.5664,"ActionGeoLong": 127},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 2,"Goldstein": 1.9,"SourceGeoLat": 38.8951,"SourceGeoLong": -77.0364,"ActionGeoLat": null,"ActionGeoLong": null},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 1,"Goldstein": 3.4,"SourceGeoLat": 38.8951,"SourceGeoLong": -77.0364,"ActionGeoLat": 38.8951,"ActionGeoLong": -77.0364},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 1,"Goldstein": 7,"SourceGeoLat": 38.8951,"SourceGeoLong": -77.0364,"ActionGeoLat": 38.8951,"ActionGeoLong": -77.0364},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 2,"Goldstein": -2,"SourceGeoLat": 42.1497,"SourceGeoLong": -74.9384,"ActionGeoLat": 42.1497,"ActionGeoLong": -74.9384},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 3,"Goldstein": -4,"SourceGeoLat": 38.8951,"SourceGeoLong": -77.0364,"ActionGeoLat": 38.8951,"ActionGeoLong": -77.0364},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 1,"Goldstein": -10,"SourceGeoLat": 38,"SourceGeoLong": -97,"ActionGeoLat": 38,"ActionGeoLong": -97},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 1,"Goldstein": 0.4,"SourceGeoLat": 42.3584,"SourceGeoLong": -71.0598,"ActionGeoLat": 42.3584,"ActionGeoLong": -71.0598},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 1,"Goldstein": 1,"SourceGeoLat": 53.2719,"SourceGeoLong": -9.04889,"ActionGeoLat": 53.2719,"ActionGeoLong": -9.04889},{"Source": "https://www.dbpedia.org/resource/Vietnam","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 1,"Goldstein": 1,"SourceGeoLat": 16,"SourceGeoLong": 106,"ActionGeoLat": 16,"ActionGeoLong": 106},{"Source": "https://www.dbpedia.org/resource/Zambia","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 1,"Goldstein": -5,"SourceGeoLat": -14.7762,"SourceGeoLong": 26.1811,"ActionGeoLat": -13.5,"ActionGeoLong": 34},{"Source": "https://www.dbpedia.org/resource/Zambia","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 1,"Goldstein": -5,"SourceGeoLat": -14.7762,"SourceGeoLong": 26.1811,"ActionGeoLat": 59.3333,"ActionGeoLong": 18.05},{"Source": "https://www.dbpedia.org/resource/Zimbabwe","Target": "https://www.dbpedia.org/resource/United_States","NumEvents": 2,"Goldstein": 1,"SourceGeoLat": -20,"SourceGeoLong": 30,"ActionGeoLat": 42.1497,"ActionGeoLong": -74.9384},{"Source": "https://www.dbpedia.org/resource/North_Korea","Target": "https://www.dbpedia.org/resource/China","NumEvents": 1,"Goldstein": 4,"SourceGeoLat": 52,"SourceGeoLong": 20,"ActionGeoLat": 52,"ActionGeoLong": 20},{"Source": "https://www.dbpedia.org/resource/North_Korea","Target": "https://www.dbpedia.org/resource/China","NumEvents": 2,"Goldstein": 1.9,"SourceGeoLat": 43.8508,"SourceGeoLong": 126.56,"ActionGeoLat": 43.8508,"ActionGeoLong": 126.56},{"Source": "https://www.dbpedia.org/resource/Refugee","Target": "https://www.dbpedia.org/resource/China","NumEvents": 1,"Goldstein": 0,"SourceGeoLat": 37.9326,"SourceGeoLong": 41.9402,"ActionGeoLat": 37.9326,"ActionGeoLong": 41.9402},{"Source": "https://www.dbpedia.org/resource/Refugee","Target": "https://www.dbpedia.org/resource/China","NumEvents": 1,"Goldstein": -0.4,"SourceGeoLat": 44.545,"SourceGeoLong": 18.6017,"ActionGeoLat": 44.545,"ActionGeoLong": 18.6017},{"Source": "https://www.dbpedia.org/resource/Russia","Target": "https://www.dbpedia.org/resource/China","NumEvents": 1,"Goldstein": 3,"SourceGeoLat": 60,"SourceGeoLong": 100,"ActionGeoLat": 60,"ActionGeoLong": 100},{"Source": "https://www.dbpedia.org/resource/Russia","Target": "https://www.dbpedia.org/resource/China","NumEvents": 2,"Goldstein": 4,"SourceGeoLat": 36,"SourceGeoLong": 138,"ActionGeoLat": 60,"ActionGeoLong": 100},{"Source": "https://www.dbpedia.org/resource/Thailand","Target": "https://www.dbpedia.org/resource/China","NumEvents": 1,"Goldstein": 2.8,"SourceGeoLat": 53,"SourceGeoLong": 28,"ActionGeoLat": 53,"ActionGeoLong": 28},{"Source": "https://www.dbpedia.org/resource/Tibet","Target": "https://www.dbpedia.org/resource/China","NumEvents": 2,"Goldstein": 1,"SourceGeoLat": 32,"SourceGeoLong": 90,"ActionGeoLat": 32,"ActionGeoLong": 90},{"Source": "https://www.dbpedia.org/resource/Taiwan","Target": "https://www.dbpedia.org/resource/China","NumEvents": 1,"Goldstein": 0,"SourceGeoLat": 25.0478,"SourceGeoLong": 121.532,"ActionGeoLat": 25.0478,"ActionGeoLong": 121.532},{"Source": "https://www.dbpedia.org/resource/Taiwan","Target": "https://www.dbpedia.org/resource/China","NumEvents": 2,"Goldstein": -2,"SourceGeoLat": 25.0478,"SourceGeoLong": 121.532,"ActionGeoLat": 39.9289,"ActionGeoLong": 116.388},{"Source": "https://www.dbpedia.org/resource/Taiwan","Target": "https://www.dbpedia.org/resource/China","NumEvents": 1,"Goldstein": -4.4,"SourceGeoLat": 35,"SourceGeoLong": 105,"ActionGeoLat": 35,"ActionGeoLong": 105},{"Source": "https://www.dbpedia.org/resource/Taiwan","Target": "https://www.dbpedia.org/resource/China","NumEvents": 2,"Goldstein": -7,"SourceGeoLat": 25.0478,"SourceGeoLong": 121.532,"ActionGeoLat": 25.0478,"ActionGeoLong": 121.532},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/China","NumEvents": 2,"Goldstein": 4,"SourceGeoLat": 38,"SourceGeoLong": -97,"ActionGeoLat": 60,"ActionGeoLong": 100},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/China","NumEvents": 2,"Goldstein": 1.9,"SourceGeoLat": 35,"SourceGeoLong": 105,"ActionGeoLat": 35,"ActionGeoLong": 105},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/China","NumEvents": 1,"Goldstein": 1.9,"SourceGeoLat": 47.564,"SourceGeoLong": -122.275,"ActionGeoLat": 47.564,"ActionGeoLong": -122.275},{"Source": "https://www.dbpedia.org/resource/Vietnam","Target": "https://www.dbpedia.org/resource/China","NumEvents": 1,"Goldstein": 1.9,"SourceGeoLat": 16,"SourceGeoLong": 106,"ActionGeoLat": 3.16667,"ActionGeoLong": 101.7},{"Source": "https://www.dbpedia.org/resource/Russia","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 6,"Goldstein": 0,"SourceGeoLat": 52.9547,"SourceGeoLong": 54.5654,"ActionGeoLat": 52.9547,"ActionGeoLong": 54.5654},{"Source": "https://www.dbpedia.org/resource/Russia","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 1,"Goldstein": 0,"SourceGeoLat": 60,"SourceGeoLong": 100,"ActionGeoLat": 60,"ActionGeoLong": 100},{"Source": "https://www.dbpedia.org/resource/Russia","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 3,"Goldstein": 4,"SourceGeoLat": 43.3,"SourceGeoLong": 45.7,"ActionGeoLat": 43.9611,"ActionGeoLong": 47.6427},{"Source": "https://www.dbpedia.org/resource/Russia","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 6,"Goldstein": 4,"SourceGeoLat": 43.3,"SourceGeoLong": 45.7,"ActionGeoLat": 43.3,"ActionGeoLong": 45.7},{"Source": "https://www.dbpedia.org/resource/Russia","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 3,"Goldstein": 1.9,"SourceGeoLat": 47.2364,"SourceGeoLong": 39.7139,"ActionGeoLat": 47.2364,"ActionGeoLong": 39.7139},{"Source": "https://www.dbpedia.org/resource/Russia","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 2,"Goldstein": 2.8,"SourceGeoLat": 60,"SourceGeoLong": 100,"ActionGeoLat": 60,"ActionGeoLong": 100},{"Source": "https://www.dbpedia.org/resource/Russia","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 1,"Goldstein": 7,"SourceGeoLat": 43.3,"SourceGeoLong": 45.7,"ActionGeoLat": 43.3,"ActionGeoLong": 45.7},{"Source": "https://www.dbpedia.org/resource/Russia","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 3,"Goldstein": 8,"SourceGeoLat": 58.0174,"SourceGeoLong": 56.2855,"ActionGeoLat": 58.0174,"ActionGeoLong": 56.2855},{"Source": "https://www.dbpedia.org/resource/Russia","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 1,"Goldstein": 6,"SourceGeoLat": 58.0174,"SourceGeoLong": 56.2855,"ActionGeoLat": 55.7522,"ActionGeoLong": 37.6156},{"Source": "https://www.dbpedia.org/resource/Russia","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 1,"Goldstein": 0,"SourceGeoLat": 60,"SourceGeoLong": 100,"ActionGeoLat": 60,"ActionGeoLong": 100},{"Source": "https://www.dbpedia.org/resource/Russia","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 1,"Goldstein": 6,"SourceGeoLat": 60,"SourceGeoLong": 100,"ActionGeoLat": 60,"ActionGeoLong": 100},{"Source": "https://www.dbpedia.org/resource/Russia","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 1,"Goldstein": 0,"SourceGeoLat": 43.9611,"SourceGeoLong": 47.6427,"ActionGeoLat": 43.9611,"ActionGeoLong": 47.6427},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 1,"Goldstein": 0,"SourceGeoLat": 36.297,"SourceGeoLong": 59.6062,"ActionGeoLat": 36.297,"ActionGeoLong": 59.6062},{"Source": "https://www.dbpedia.org/resource/Sweden","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 2,"Goldstein": 2.8,"SourceGeoLat": 59.3333,"SourceGeoLong": 18.05,"ActionGeoLat": 59.3333,"ActionGeoLong": 18.05},{"Source": "https://www.dbpedia.org/resource/Turkmenistan","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 1,"Goldstein": 3,"SourceGeoLat": 37.95,"SourceGeoLong": 58.3833,"ActionGeoLat": 37.95,"ActionGeoLong": 58.3833},{"Source": "https://www.dbpedia.org/resource/Turkey","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 2,"Goldstein": 4,"SourceGeoLat": 37.0247,"SourceGeoLong": 35.8175,"ActionGeoLat": 52.9547,"ActionGeoLong": 54.5654},{"Source": "https://www.dbpedia.org/resource/Ukraine","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 1,"Goldstein": 1,"SourceGeoLat": 44.55,"SourceGeoLong": 26.0667,"ActionGeoLat": 44.55,"ActionGeoLong": 26.0667},{"Source": "https://www.dbpedia.org/resource/Ukraine","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 1,"Goldstein": 4,"SourceGeoLat": 49,"SourceGeoLong": 32,"ActionGeoLat": 49,"ActionGeoLong": 32},{"Source": "https://www.dbpedia.org/resource/Ukraine","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 4,"Goldstein": 7.4,"SourceGeoLat": 50.4333,"SourceGeoLong": 30.5167,"ActionGeoLat": 58.8783,"ActionGeoLong": 38.582},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 2,"Goldstein": 1.9,"SourceGeoLat": 38.8951,"SourceGeoLong": -77.0364,"ActionGeoLat": 38.8951,"ActionGeoLong": -77.0364},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 2,"Goldstein": 8,"SourceGeoLat": 38.8951,"SourceGeoLong": -77.0364,"ActionGeoLat": null,"ActionGeoLong": null},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 1,"Goldstein": 3,"SourceGeoLat": 40.3953,"SourceGeoLong": 49.8822,"ActionGeoLat": 40.3953,"ActionGeoLong": 49.8822},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 1,"Goldstein": 3,"SourceGeoLat": 38.8951,"SourceGeoLong": -77.0364,"ActionGeoLat": 33,"ActionGeoLong": 44},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 3,"Goldstein": 0,"SourceGeoLat": 38,"SourceGeoLong": -97,"ActionGeoLat": 38,"ActionGeoLong": -97},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 1,"Goldstein": -2,"SourceGeoLat": 60,"SourceGeoLong": 100,"ActionGeoLat": 60,"ActionGeoLong": 100},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 1,"Goldstein": 3,"SourceGeoLat": 38.8951,"SourceGeoLong": -77.0364,"ActionGeoLat": 46.157,"ActionGeoLong": 38.5338},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 4,"Goldstein": 4,"SourceGeoLat": 38.8951,"SourceGeoLong": -77.0364,"ActionGeoLat": 60,"ActionGeoLong": 100},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 1,"Goldstein": 2.8,"SourceGeoLat": 38,"SourceGeoLong": -97,"ActionGeoLat": 60,"ActionGeoLong": 100},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 4,"Goldstein": 3.4,"SourceGeoLat": 41,"SourceGeoLong": 64,"ActionGeoLat": 40.3953,"ActionGeoLong": 49.8822},{"Source": "https://www.dbpedia.org/resource/United_States","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 1,"Goldstein": -5,"SourceGeoLat": 38.8951,"SourceGeoLong": -77.0364,"ActionGeoLat": 38.8951,"ActionGeoLong": -77.0364},{"Source": "https://www.dbpedia.org/resource/Vietnam","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 2,"Goldstein": 1.9,"SourceGeoLat": 10.35,"SourceGeoLong": 107.067,"ActionGeoLat": 10.35,"ActionGeoLong": 107.067},{"Source": "https://www.dbpedia.org/resource/Vietnam","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 3,"Goldstein": 2.8,"SourceGeoLat": 16,"SourceGeoLong": 106,"ActionGeoLat": 16,"ActionGeoLong": 106},{"Source": "https://www.dbpedia.org/resource/Vietnam","Target": "https://www.dbpedia.org/resource/Russia","NumEvents": 1,"Goldstein": -5.6,"SourceGeoLat": 16,"SourceGeoLong": 106,"ActionGeoLat": 52.9547,"ActionGeoLong": 54.5654}]
+[
+    {
+        "Source": "https://www.dbpedia.org/resource/North_Korea",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 5,
+        "Goldstein": 1,
+        "SourceGeoLat": 38.8951,
+        "SourceGeoLong": -77.0364,
+        "ActionGeoLat": 38.8951,
+        "ActionGeoLong": -77.0364
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/North_Korea",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 9,
+        "Goldstein": 7,
+        "SourceGeoLat": 40,
+        "SourceGeoLong": 127,
+        "ActionGeoLat": 40,
+        "ActionGeoLong": 127
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/North_Korea",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 2,
+        "Goldstein": 3.4,
+        "SourceGeoLat": 38.8951,
+        "SourceGeoLong": -77.0364,
+        "ActionGeoLat": 38.8951,
+        "ActionGeoLong": -77.0364
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Paraguay",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 1,
+        "Goldstein": -5,
+        "SourceGeoLat": 39.0646,
+        "SourceGeoLong": -105.327,
+        "ActionGeoLat": 39.0646,
+        "ActionGeoLong": -105.327
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Palestinian_territories",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 2,
+        "Goldstein": 0,
+        "SourceGeoLat": 31.6667,
+        "SourceGeoLong": 35.25,
+        "ActionGeoLat": 31.6667,
+        "ActionGeoLong": 35.25
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Israel",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 2,
+        "Goldstein": 4,
+        "SourceGeoLat": 38,
+        "SourceGeoLong": -97,
+        "ActionGeoLat": 38,
+        "ActionGeoLong": -97
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Russia",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 3,
+        "Goldstein": 1.9,
+        "SourceGeoLat": 43.3,
+        "SourceGeoLong": 45.7,
+        "ActionGeoLat": 43.3,
+        "ActionGeoLong": 45.7
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Russia",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 4,
+        "Goldstein": 4,
+        "SourceGeoLat": 60,
+        "SourceGeoLong": 100,
+        "ActionGeoLat": 60,
+        "ActionGeoLong": 100
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Russia",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 1,
+        "Goldstein": 1.9,
+        "SourceGeoLat": 60,
+        "SourceGeoLong": 100,
+        "ActionGeoLat": 60,
+        "ActionGeoLong": 100
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Saudi_Arabia",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 1,
+        "Goldstein": 2.8,
+        "SourceGeoLat": 26.8333,
+        "SourceGeoLong": 39.3833,
+        "ActionGeoLat": 35.75,
+        "ActionGeoLong": 51.5148
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Serbia",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 1,
+        "Goldstein": 3.4,
+        "SourceGeoLat": 43.75,
+        "SourceGeoLong": 20.75,
+        "ActionGeoLat": 43.75,
+        "ActionGeoLong": 20.75
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Tajikistan",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 2,
+        "Goldstein": 2.8,
+        "SourceGeoLat": 38.56,
+        "SourceGeoLong": 68.7739,
+        "ActionGeoLat": 38.8951,
+        "ActionGeoLong": -77.0364
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Turkey",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 4,
+        "Goldstein": 3,
+        "SourceGeoLat": 39.9272,
+        "SourceGeoLong": 32.8644,
+        "ActionGeoLat": 33.3386,
+        "ActionGeoLong": 44.3939
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Turkey",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 4,
+        "Goldstein": 4.5,
+        "SourceGeoLat": 39.9272,
+        "SourceGeoLong": 32.8644,
+        "ActionGeoLat": 39.9272,
+        "ActionGeoLong": 32.8644
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Turkey",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 1,
+        "Goldstein": 3.4,
+        "SourceGeoLat": 39.9272,
+        "SourceGeoLong": 32.8644,
+        "ActionGeoLat": 39.9272,
+        "ActionGeoLong": 32.8644
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Turkey",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 1,
+        "Goldstein": -5,
+        "SourceGeoLat": 39.9272,
+        "SourceGeoLong": 32.8644,
+        "ActionGeoLat": 39.9272,
+        "ActionGeoLong": 32.8644
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Ukraine",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 1,
+        "Goldstein": 1.9,
+        "SourceGeoLat": 50.4333,
+        "SourceGeoLong": 30.5167,
+        "ActionGeoLat": 55.7522,
+        "ActionGeoLong": 37.6156
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 1,
+        "Goldstein": 8,
+        "SourceGeoLat": 36.17,
+        "SourceGeoLong": -119.746,
+        "ActionGeoLat": 36.17,
+        "ActionGeoLong": -119.746
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 2,
+        "Goldstein": 1,
+        "SourceGeoLat": 31.5,
+        "SourceGeoLong": 34.75,
+        "ActionGeoLat": 31.5,
+        "ActionGeoLong": 34.75
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 2,
+        "Goldstein": 7,
+        "SourceGeoLat": 38,
+        "SourceGeoLong": -97,
+        "ActionGeoLat": 31.5333,
+        "ActionGeoLong": 35.1
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 1,
+        "Goldstein": -4,
+        "SourceGeoLat": 42.1497,
+        "SourceGeoLong": -74.9384,
+        "ActionGeoLat": 42.1497,
+        "ActionGeoLong": -74.9384
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 1,
+        "Goldstein": 0,
+        "SourceGeoLat": 38,
+        "SourceGeoLong": -97,
+        "ActionGeoLat": -4.66,
+        "ActionGeoLong": 30.6689
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 1,
+        "Goldstein": 0.4,
+        "SourceGeoLat": 38.8951,
+        "SourceGeoLong": -77.0364,
+        "ActionGeoLat": 38.8951,
+        "ActionGeoLong": -77.0364
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 4,
+        "Goldstein": 3,
+        "SourceGeoLat": 38.8951,
+        "SourceGeoLong": -77.0364,
+        "ActionGeoLat": 38.8951,
+        "ActionGeoLong": -77.0364
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 1,
+        "Goldstein": 4,
+        "SourceGeoLat": 38,
+        "SourceGeoLong": -97,
+        "ActionGeoLat": 38,
+        "ActionGeoLong": -97
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 1,
+        "Goldstein": 4,
+        "SourceGeoLat": 31.5,
+        "SourceGeoLong": 34.75,
+        "ActionGeoLat": 31.5,
+        "ActionGeoLong": 34.75
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 2,
+        "Goldstein": 1,
+        "SourceGeoLat": 38.8951,
+        "SourceGeoLong": -77.0364,
+        "ActionGeoLat": 37.5664,
+        "ActionGeoLong": 127
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 2,
+        "Goldstein": 1.9,
+        "SourceGeoLat": 38.8951,
+        "SourceGeoLong": -77.0364,
+        "ActionGeoLat": null,
+        "ActionGeoLong": null
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 1,
+        "Goldstein": 3.4,
+        "SourceGeoLat": 38.8951,
+        "SourceGeoLong": -77.0364,
+        "ActionGeoLat": 38.8951,
+        "ActionGeoLong": -77.0364
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 1,
+        "Goldstein": 7,
+        "SourceGeoLat": 38.8951,
+        "SourceGeoLong": -77.0364,
+        "ActionGeoLat": 38.8951,
+        "ActionGeoLong": -77.0364
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 2,
+        "Goldstein": -2,
+        "SourceGeoLat": 42.1497,
+        "SourceGeoLong": -74.9384,
+        "ActionGeoLat": 42.1497,
+        "ActionGeoLong": -74.9384
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 3,
+        "Goldstein": -4,
+        "SourceGeoLat": 38.8951,
+        "SourceGeoLong": -77.0364,
+        "ActionGeoLat": 38.8951,
+        "ActionGeoLong": -77.0364
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 1,
+        "Goldstein": -10,
+        "SourceGeoLat": 38,
+        "SourceGeoLong": -97,
+        "ActionGeoLat": 38,
+        "ActionGeoLong": -97
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 1,
+        "Goldstein": 0.4,
+        "SourceGeoLat": 42.3584,
+        "SourceGeoLong": -71.0598,
+        "ActionGeoLat": 42.3584,
+        "ActionGeoLong": -71.0598
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 1,
+        "Goldstein": 1,
+        "SourceGeoLat": 53.2719,
+        "SourceGeoLong": -9.04889,
+        "ActionGeoLat": 53.2719,
+        "ActionGeoLong": -9.04889
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Vietnam",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 1,
+        "Goldstein": 1,
+        "SourceGeoLat": 16,
+        "SourceGeoLong": 106,
+        "ActionGeoLat": 16,
+        "ActionGeoLong": 106
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Zambia",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 1,
+        "Goldstein": -5,
+        "SourceGeoLat": -14.7762,
+        "SourceGeoLong": 26.1811,
+        "ActionGeoLat": -13.5,
+        "ActionGeoLong": 34
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Zambia",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 1,
+        "Goldstein": -5,
+        "SourceGeoLat": -14.7762,
+        "SourceGeoLong": 26.1811,
+        "ActionGeoLat": 59.3333,
+        "ActionGeoLong": 18.05
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Zimbabwe",
+        "Target": "https://www.dbpedia.org/resource/United_States",
+        "NumEvents": 2,
+        "Goldstein": 1,
+        "SourceGeoLat": -20,
+        "SourceGeoLong": 30,
+        "ActionGeoLat": 42.1497,
+        "ActionGeoLong": -74.9384
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/North_Korea",
+        "Target": "https://www.dbpedia.org/resource/China",
+        "NumEvents": 1,
+        "Goldstein": 4,
+        "SourceGeoLat": 52,
+        "SourceGeoLong": 20,
+        "ActionGeoLat": 52,
+        "ActionGeoLong": 20
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/North_Korea",
+        "Target": "https://www.dbpedia.org/resource/China",
+        "NumEvents": 2,
+        "Goldstein": 1.9,
+        "SourceGeoLat": 43.8508,
+        "SourceGeoLong": 126.56,
+        "ActionGeoLat": 43.8508,
+        "ActionGeoLong": 126.56
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Refugee",
+        "Target": "https://www.dbpedia.org/resource/China",
+        "NumEvents": 1,
+        "Goldstein": 0,
+        "SourceGeoLat": 37.9326,
+        "SourceGeoLong": 41.9402,
+        "ActionGeoLat": 37.9326,
+        "ActionGeoLong": 41.9402
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Refugee",
+        "Target": "https://www.dbpedia.org/resource/China",
+        "NumEvents": 1,
+        "Goldstein": -0.4,
+        "SourceGeoLat": 44.545,
+        "SourceGeoLong": 18.6017,
+        "ActionGeoLat": 44.545,
+        "ActionGeoLong": 18.6017
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Russia",
+        "Target": "https://www.dbpedia.org/resource/China",
+        "NumEvents": 1,
+        "Goldstein": 3,
+        "SourceGeoLat": 60,
+        "SourceGeoLong": 100,
+        "ActionGeoLat": 60,
+        "ActionGeoLong": 100
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Russia",
+        "Target": "https://www.dbpedia.org/resource/China",
+        "NumEvents": 2,
+        "Goldstein": 4,
+        "SourceGeoLat": 36,
+        "SourceGeoLong": 138,
+        "ActionGeoLat": 60,
+        "ActionGeoLong": 100
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Thailand",
+        "Target": "https://www.dbpedia.org/resource/China",
+        "NumEvents": 1,
+        "Goldstein": 2.8,
+        "SourceGeoLat": 53,
+        "SourceGeoLong": 28,
+        "ActionGeoLat": 53,
+        "ActionGeoLong": 28
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Tibet",
+        "Target": "https://www.dbpedia.org/resource/China",
+        "NumEvents": 2,
+        "Goldstein": 1,
+        "SourceGeoLat": 32,
+        "SourceGeoLong": 90,
+        "ActionGeoLat": 32,
+        "ActionGeoLong": 90
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Taiwan",
+        "Target": "https://www.dbpedia.org/resource/China",
+        "NumEvents": 1,
+        "Goldstein": 0,
+        "SourceGeoLat": 25.0478,
+        "SourceGeoLong": 121.532,
+        "ActionGeoLat": 25.0478,
+        "ActionGeoLong": 121.532
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Taiwan",
+        "Target": "https://www.dbpedia.org/resource/China",
+        "NumEvents": 2,
+        "Goldstein": -2,
+        "SourceGeoLat": 25.0478,
+        "SourceGeoLong": 121.532,
+        "ActionGeoLat": 39.9289,
+        "ActionGeoLong": 116.388
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Taiwan",
+        "Target": "https://www.dbpedia.org/resource/China",
+        "NumEvents": 1,
+        "Goldstein": -4.4,
+        "SourceGeoLat": 35,
+        "SourceGeoLong": 105,
+        "ActionGeoLat": 35,
+        "ActionGeoLong": 105
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Taiwan",
+        "Target": "https://www.dbpedia.org/resource/China",
+        "NumEvents": 2,
+        "Goldstein": -7,
+        "SourceGeoLat": 25.0478,
+        "SourceGeoLong": 121.532,
+        "ActionGeoLat": 25.0478,
+        "ActionGeoLong": 121.532
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/China",
+        "NumEvents": 2,
+        "Goldstein": 4,
+        "SourceGeoLat": 38,
+        "SourceGeoLong": -97,
+        "ActionGeoLat": 60,
+        "ActionGeoLong": 100
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/China",
+        "NumEvents": 2,
+        "Goldstein": 1.9,
+        "SourceGeoLat": 35,
+        "SourceGeoLong": 105,
+        "ActionGeoLat": 35,
+        "ActionGeoLong": 105
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/China",
+        "NumEvents": 1,
+        "Goldstein": 1.9,
+        "SourceGeoLat": 47.564,
+        "SourceGeoLong": -122.275,
+        "ActionGeoLat": 47.564,
+        "ActionGeoLong": -122.275
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Vietnam",
+        "Target": "https://www.dbpedia.org/resource/China",
+        "NumEvents": 1,
+        "Goldstein": 1.9,
+        "SourceGeoLat": 16,
+        "SourceGeoLong": 106,
+        "ActionGeoLat": 3.16667,
+        "ActionGeoLong": 101.7
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Russia",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 6,
+        "Goldstein": 0,
+        "SourceGeoLat": 52.9547,
+        "SourceGeoLong": 54.5654,
+        "ActionGeoLat": 52.9547,
+        "ActionGeoLong": 54.5654
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Russia",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 1,
+        "Goldstein": 0,
+        "SourceGeoLat": 60,
+        "SourceGeoLong": 100,
+        "ActionGeoLat": 60,
+        "ActionGeoLong": 100
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Russia",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 3,
+        "Goldstein": 4,
+        "SourceGeoLat": 43.3,
+        "SourceGeoLong": 45.7,
+        "ActionGeoLat": 43.9611,
+        "ActionGeoLong": 47.6427
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Russia",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 6,
+        "Goldstein": 4,
+        "SourceGeoLat": 43.3,
+        "SourceGeoLong": 45.7,
+        "ActionGeoLat": 43.3,
+        "ActionGeoLong": 45.7
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Russia",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 3,
+        "Goldstein": 1.9,
+        "SourceGeoLat": 47.2364,
+        "SourceGeoLong": 39.7139,
+        "ActionGeoLat": 47.2364,
+        "ActionGeoLong": 39.7139
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Russia",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 2,
+        "Goldstein": 2.8,
+        "SourceGeoLat": 60,
+        "SourceGeoLong": 100,
+        "ActionGeoLat": 60,
+        "ActionGeoLong": 100
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Russia",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 1,
+        "Goldstein": 7,
+        "SourceGeoLat": 43.3,
+        "SourceGeoLong": 45.7,
+        "ActionGeoLat": 43.3,
+        "ActionGeoLong": 45.7
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Russia",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 3,
+        "Goldstein": 8,
+        "SourceGeoLat": 58.0174,
+        "SourceGeoLong": 56.2855,
+        "ActionGeoLat": 58.0174,
+        "ActionGeoLong": 56.2855
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Russia",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 1,
+        "Goldstein": 6,
+        "SourceGeoLat": 58.0174,
+        "SourceGeoLong": 56.2855,
+        "ActionGeoLat": 55.7522,
+        "ActionGeoLong": 37.6156
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Russia",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 1,
+        "Goldstein": 0,
+        "SourceGeoLat": 60,
+        "SourceGeoLong": 100,
+        "ActionGeoLat": 60,
+        "ActionGeoLong": 100
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Russia",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 1,
+        "Goldstein": 6,
+        "SourceGeoLat": 60,
+        "SourceGeoLong": 100,
+        "ActionGeoLat": 60,
+        "ActionGeoLong": 100
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Russia",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 1,
+        "Goldstein": 0,
+        "SourceGeoLat": 43.9611,
+        "SourceGeoLong": 47.6427,
+        "ActionGeoLat": 43.9611,
+        "ActionGeoLong": 47.6427
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 1,
+        "Goldstein": 0,
+        "SourceGeoLat": 36.297,
+        "SourceGeoLong": 59.6062,
+        "ActionGeoLat": 36.297,
+        "ActionGeoLong": 59.6062
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Sweden",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 2,
+        "Goldstein": 2.8,
+        "SourceGeoLat": 59.3333,
+        "SourceGeoLong": 18.05,
+        "ActionGeoLat": 59.3333,
+        "ActionGeoLong": 18.05
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Turkmenistan",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 1,
+        "Goldstein": 3,
+        "SourceGeoLat": 37.95,
+        "SourceGeoLong": 58.3833,
+        "ActionGeoLat": 37.95,
+        "ActionGeoLong": 58.3833
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Turkey",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 2,
+        "Goldstein": 4,
+        "SourceGeoLat": 37.0247,
+        "SourceGeoLong": 35.8175,
+        "ActionGeoLat": 52.9547,
+        "ActionGeoLong": 54.5654
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Ukraine",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 1,
+        "Goldstein": 1,
+        "SourceGeoLat": 44.55,
+        "SourceGeoLong": 26.0667,
+        "ActionGeoLat": 44.55,
+        "ActionGeoLong": 26.0667
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Ukraine",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 1,
+        "Goldstein": 4,
+        "SourceGeoLat": 49,
+        "SourceGeoLong": 32,
+        "ActionGeoLat": 49,
+        "ActionGeoLong": 32
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Ukraine",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 4,
+        "Goldstein": 7.4,
+        "SourceGeoLat": 50.4333,
+        "SourceGeoLong": 30.5167,
+        "ActionGeoLat": 58.8783,
+        "ActionGeoLong": 38.582
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 2,
+        "Goldstein": 1.9,
+        "SourceGeoLat": 38.8951,
+        "SourceGeoLong": -77.0364,
+        "ActionGeoLat": 38.8951,
+        "ActionGeoLong": -77.0364
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 2,
+        "Goldstein": 8,
+        "SourceGeoLat": 38.8951,
+        "SourceGeoLong": -77.0364,
+        "ActionGeoLat": null,
+        "ActionGeoLong": null
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 1,
+        "Goldstein": 3,
+        "SourceGeoLat": 40.3953,
+        "SourceGeoLong": 49.8822,
+        "ActionGeoLat": 40.3953,
+        "ActionGeoLong": 49.8822
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 1,
+        "Goldstein": 3,
+        "SourceGeoLat": 38.8951,
+        "SourceGeoLong": -77.0364,
+        "ActionGeoLat": 33,
+        "ActionGeoLong": 44
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 3,
+        "Goldstein": 0,
+        "SourceGeoLat": 38,
+        "SourceGeoLong": -97,
+        "ActionGeoLat": 38,
+        "ActionGeoLong": -97
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 1,
+        "Goldstein": -2,
+        "SourceGeoLat": 60,
+        "SourceGeoLong": 100,
+        "ActionGeoLat": 60,
+        "ActionGeoLong": 100
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 1,
+        "Goldstein": 3,
+        "SourceGeoLat": 38.8951,
+        "SourceGeoLong": -77.0364,
+        "ActionGeoLat": 46.157,
+        "ActionGeoLong": 38.5338
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 4,
+        "Goldstein": 4,
+        "SourceGeoLat": 38.8951,
+        "SourceGeoLong": -77.0364,
+        "ActionGeoLat": 60,
+        "ActionGeoLong": 100
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 1,
+        "Goldstein": 2.8,
+        "SourceGeoLat": 38,
+        "SourceGeoLong": -97,
+        "ActionGeoLat": 60,
+        "ActionGeoLong": 100
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 4,
+        "Goldstein": 3.4,
+        "SourceGeoLat": 41,
+        "SourceGeoLong": 64,
+        "ActionGeoLat": 40.3953,
+        "ActionGeoLong": 49.8822
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/United_States",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 1,
+        "Goldstein": -5,
+        "SourceGeoLat": 38.8951,
+        "SourceGeoLong": -77.0364,
+        "ActionGeoLat": 38.8951,
+        "ActionGeoLong": -77.0364
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Vietnam",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 2,
+        "Goldstein": 1.9,
+        "SourceGeoLat": 10.35,
+        "SourceGeoLong": 107.067,
+        "ActionGeoLat": 10.35,
+        "ActionGeoLong": 107.067
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Vietnam",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 3,
+        "Goldstein": 2.8,
+        "SourceGeoLat": 16,
+        "SourceGeoLong": 106,
+        "ActionGeoLat": 16,
+        "ActionGeoLong": 106
+    },
+    {
+        "Source": "https://www.dbpedia.org/resource/Vietnam",
+        "Target": "https://www.dbpedia.org/resource/Russia",
+        "NumEvents": 1,
+        "Goldstein": -5.6,
+        "SourceGeoLat": 16,
+        "SourceGeoLong": 106,
+        "ActionGeoLat": 52.9547,
+        "ActionGeoLong": 54.5654
+    }
+]
