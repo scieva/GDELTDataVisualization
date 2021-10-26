@@ -9,13 +9,13 @@ The introductionary page of the web platform gives you the options to choose, to
 
 ## Interactive Globe view of the World
 From a drop down menu at the top you can choose between three different view which are: <br/>
-Orthographic view: <br/>
+### Orthographic view: <br/>
 ![image](https://user-images.githubusercontent.com/38570213/138883252-1ba64f7f-6232-432d-a55d-cdd977179238.png)
 
-Mercator: <br/>
+### Mercator: <br/>
 ![image](https://user-images.githubusercontent.com/38570213/138910056-1ddaff69-cd1b-414d-9c4d-070d16b311fd.png)
 
-Natural Earth: <br/>
+### Natural Earth: <br/>
 ![image](https://user-images.githubusercontent.com/38570213/138910040-1f939c89-b035-4870-89a9-21e96a7dcac8.png)
 
 
@@ -52,7 +52,7 @@ As it is shown on the image bellow, this diagram is interactive and by dragging 
 ![image](https://user-images.githubusercontent.com/38570213/138909319-99176cac-61b3-4b58-9e65-2ea9ca545c93.png)
 
 
-#### The how the data lookes behind the visualization of the Force Directed Diagram
+### The how the data lookes behind the visualization of the Force Directed Diagram
 Examples of few links: <br/>
 <br/>
 ![image](https://user-images.githubusercontent.com/38570213/138552325-c9abf8ba-39ab-4455-88d2-1457a6d914c5.png)
