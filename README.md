@@ -1,41 +1,58 @@
 # Visulization of geopolitical data using D3.js
 Data Visulization of sets taken from https://www.gdeltproject.org/
 
-A map of the world <br/>
-![image](https://user-images.githubusercontent.com/38570213/138552132-4b6292b2-a76b-475b-aa73-411f433a3d91.png)
 
-An Interactive map of the world <br/>
-![image](https://user-images.githubusercontent.com/38570213/138562169-aa807c8e-4f12-4f02-8427-f62db173920c.png)
-![image](https://user-images.githubusercontent.com/38570213/138562179-6e4460a4-b74f-4ae6-b672-fe295e6b23e0.png)
-![image](https://user-images.githubusercontent.com/38570213/138562186-f7c19df4-c2dc-4091-a300-5fe2e672723e.png)
+## The Home Page
+The introductionary page of the web platform gives you the options to choose, to which visualization of the data you would like to go to. By hovering over your choice the letters are highlighted with a clear blue colour for easier navigation around the site. <br/>
+<br/>
+![image](https://user-images.githubusercontent.com/38570213/138882206-6f3d9d22-3fdf-40f1-9459-bd8971b2bc60.png)
 
-All attacks marked with dots - the main countries of interest have a bigger radius <br/>
-![image](https://user-images.githubusercontent.com/38570213/138552204-4a43ba2c-bc0d-4d99-8d1f-0e005e2540d1.png)
+## Interactive Globe view of the World
+From a drop down menu at the top you can choose between three different view which are: <br/>
+Orthographic view: <br/>
+![image](https://user-images.githubusercontent.com/38570213/138883252-1ba64f7f-6232-432d-a55d-cdd977179238.png)
 
-All attacks marked with connecting lines - the main countries of interest have a line starting from them <br/>
-![image](https://user-images.githubusercontent.com/38570213/138552229-45867922-52a2-4569-8484-049859b55e56.png)
+Mercator: <br/>
+![image](https://user-images.githubusercontent.com/38570213/138910056-1ddaff69-cd1b-414d-9c4d-070d16b311fd.png)
 
-Attacks filtered only to contain China <br/>
-![image](https://user-images.githubusercontent.com/38570213/138552234-61ae0e59-8e8f-4bbc-935f-d81fc3ad15cc.png)
+Natural Earth: <br/>
+![image](https://user-images.githubusercontent.com/38570213/138910040-1f939c89-b035-4870-89a9-21e96a7dcac8.png)
 
-Attacks filtered only to contain Russia <br/>
-![image](https://user-images.githubusercontent.com/38570213/138552262-95edc045-0bfc-480a-8645-954e11f0eab8.png)
 
-Attacks filtered only to contain USA <br/>
-![image](https://user-images.githubusercontent.com/38570213/138552269-682d91b7-ee22-4b42-bec9-b3ec6576f519.png)
+## Flat map of the world
+![image](https://user-images.githubusercontent.com/38570213/138883417-aefaa34e-00e7-48bc-b74d-12e545e99e66.png)
 
-Directed Chord Diagram <br/>
-![image](https://user-images.githubusercontent.com/38570213/138551998-5789eafc-7eae-4802-bdf7-062d152740cf.png)
+In each view there is a menu bar in the top right corner that helps you navigate to any of the visualizations, including the home page. <br/>
+<br/>
+![image](https://user-images.githubusercontent.com/38570213/138908570-c3736b6a-ce89-4e75-bc6b-3ec4a6083c4e.png)
 
-Force Directed Diagram <br/>
-![image](https://user-images.githubusercontent.com/38570213/138552056-a52f5218-6d38-4eb2-bcaf-781500b56105.png)
+## All attacks marked with dots - the main countries of interest have a bigger radius
+![image](https://user-images.githubusercontent.com/38570213/138911599-7c304ecc-4d73-4236-a12e-59e95bb6a54f.png)
 
-How my data looks: <br/>
-![image](https://user-images.githubusercontent.com/38570213/138552312-9a128a91-f257-4541-be9d-a67aa973bb8c.png)
+## All attacks marked with connecting lines - the main countries of interest have a line starting from them
+![image](https://user-images.githubusercontent.com/38570213/138911205-227a5603-4cf8-47ee-9824-92c7d926e60b.png)
 
+## Attacks in reference to China
+![image](https://user-images.githubusercontent.com/38570213/138911874-f13138fd-32b8-4071-aa62-d07921406751.png)
+
+## Attacks in reference to Russia
+![image](https://user-images.githubusercontent.com/38570213/138909243-da3180fb-1111-4096-a921-246782c41ff6.png)
+
+## Attacks in reference to USA
+![image](https://user-images.githubusercontent.com/38570213/138910637-2cdc6d7f-cd3b-420d-b46b-660f53fded97.png)
+
+## Directed Chord Diagram
+![image](https://user-images.githubusercontent.com/38570213/138911269-247d45f4-9f91-4701-acea-f3fde2efe2b2.png)
+
+## Force Directed Diagram
+![image](https://user-images.githubusercontent.com/38570213/138909319-99176cac-61b3-4b58-9e65-2ea9ca545c93.png)
+<br/>
+As it is shown on the image, this diagram is interactive and by dragging any of the nodes the whole diagram is movable. This way you can see different aspects and relationships between the nodes.
+
+
+#### The how the data lookes behind the visualization of the Force Directed Diagram
 Examples of few links: <br/>
-![image](https://user-images.githubusercontent.com/38570213/138552325-c9abf8ba-39ab-4455-88d2-1457a6d914c5.png)
+<br/>
 
 Examples of few nodes: <br/>
-![image](https://user-images.githubusercontent.com/38570213/138552332-1006e27f-4c7a-4980-935b-63b22c81edf3.png)
-
+<br/>
