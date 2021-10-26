@@ -53,9 +53,7 @@ As it is shown on the image bellow, this diagram is interactive and by dragging 
 
 #### The how the data lookes behind the visualization of the Force Directed Diagram
 Examples of few links: <br/>
-<br/>
 ![image](https://user-images.githubusercontent.com/38570213/138552325-c9abf8ba-39ab-4455-88d2-1457a6d914c5.png)
 
 Examples of few nodes: <br/>
-<br/>
 ![image](https://user-images.githubusercontent.com/38570213/138552332-1006e27f-4c7a-4980-935b-63b22c81edf3.png)
