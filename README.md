@@ -45,14 +45,18 @@ In each view there is a menu bar in the top right corner that helps you navigate
 ![image](https://user-images.githubusercontent.com/38570213/138911269-247d45f4-9f91-4701-acea-f3fde2efe2b2.png)
 
 ## Force Directed Diagram
-![image](https://user-images.githubusercontent.com/38570213/138909319-99176cac-61b3-4b58-9e65-2ea9ca545c93.png)
+![image](https://user-images.githubusercontent.com/38570213/138912320-27562932-fa57-4e45-a7c5-9bc1b96bf78e.png)
 <br/>
-As it is shown on the image, this diagram is interactive and by dragging any of the nodes the whole diagram is movable. This way you can see different aspects and relationships between the nodes.
+As it is shown on the image bellow, this diagram is interactive and by dragging any of the nodes the whole diagram is movable. This way you can see different aspects and relationships between the nodes. <br/>
+<br/>
+![image](https://user-images.githubusercontent.com/38570213/138909319-99176cac-61b3-4b58-9e65-2ea9ca545c93.png)
 
 
 #### The how the data lookes behind the visualization of the Force Directed Diagram
 Examples of few links: <br/>
 <br/>
+![image](https://user-images.githubusercontent.com/38570213/138552325-c9abf8ba-39ab-4455-88d2-1457a6d914c5.png)
 
 Examples of few nodes: <br/>
 <br/>
+![image](https://user-images.githubusercontent.com/38570213/138552332-1006e27f-4c7a-4980-935b-63b22c81edf3.png)
