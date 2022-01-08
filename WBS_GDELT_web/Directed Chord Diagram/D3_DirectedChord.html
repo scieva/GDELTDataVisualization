@@ -191,6 +191,7 @@
             <li><a href="usa.html">Attacks in reference to USA</a></li>
             <li><a href="http://127.0.0.1:8080/">Chord Diagram</a></li>
             <li><a href="http://127.0.0.1:15128/">Force Directed Diagram</a></li>
+            <li><a href="http://127.0.0.1:51326/">Chord Depencency Diagram</a></li>
         </ul>
     </div>
 
@@ -294,7 +295,6 @@ VNM,RUS,162`;
         var newData = d3.csvParse(podatoci);
         module.redefine("data", newData);
 
-
         var newNames = [];
 
         for (var i in newData) {
@@ -317,8 +317,6 @@ VNM,RUS,162`;
         }
 
         module.redefine("matrix", newMatrix)
-
-        //
     </script>
 </body>
 </html>
