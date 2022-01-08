@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Depencency Chord Diagram</title>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+
+    <style>
+        /* source: https://codepen.io/yuhomyan/pen/ExKvNVa */
+
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Lato', sans-serif;
+            font-family: 'Oswald', sans-serif;
+
+        }
+
+        body {
+            text-align: center;
+            padding-top: 20px;
+            width: 110%;
+            height: 110%;
+            background: rgba(29, 33, 39, 0.05);
+            overflow: hidden;
+        }
+
+        canvas {
+            padding-left: 200px;
+        }
+
+        .wrapper{
+            position: fixed;
+            top: 0;
+            /*left: -100%;*/
+            right: -100%;
+            height: 100%;
+            width: 100%;
+            background: #000000;
+            transition: all 0.6s ease-in-out;
+        }
+
+        #active:checked ~ .wrapper{
+            right:0;
+        }
+
+        .menu-btn{
+            position: absolute;
+            z-index: 2;
+            right: 20px;
+            /*left: 20px; */
+            top: 20px;
+            height: 50px;
+            width: 50px;
+            text-align: center;
+            line-height: 50px;
+            border-radius: 50%;
+            font-size: 20px;
+            cursor: pointer;
+            transition: all 0.3s ease-in-out;
+        }
+
+        .menu-btn span,
+        .menu-btn:before,
+        .menu-btn:after{
+            content: "";
+            position: absolute;
+            top: calc(50% - 1px);
+            left: 30%;
+            width: 40%;
+            border-bottom: 2px solid #000000;
+            transition: transform .6s cubic-bezier(0.215, 0.61, 0.355, 1);
+        }
+
+        .menu-btn:before{
+            transform: translateY(-8px);
+        }
+
+        .menu-btn:after{
+            transform: translateY(8px);
+        }
+
+        .close {
+            z-index: 1;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            transition: background .6s;
+        }
+
+        /* closing animation */
+        #active:checked + .menu-btn span {
+            transform: scaleX(0);
+        }
+
+        #active:checked + .menu-btn:before {
+            transform: rotate(45deg);
+            border-color: #fff;
+        }
+
+        #active:checked + .menu-btn:after {
+            transform: rotate(-45deg);
+            border-color: #fff;
+        }
+
+        .wrapper ul{
+            position: absolute;
+            top: 40%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            list-style: none;
+            text-align: center;
+        }
+
+        .wrapper ul li{
+            height: 10%;
+            margin: 15px 0;
+        }
+
+        .wrapper ul li a{
+            text-decoration: none;
+            font-size: 20px;
+            font-weight: 500;
+            padding: 5px 30px;
+            color: #fff;
+            border-radius: 50px;
+            position: relative;
+            line-height: 50px;
+            margin: 5px 30px;
+            opacity: 0;
+        }
+
+        .wrapper ul li a:after{
+            position: absolute;
+            content: "";
+            background: #fff;
+            width: 100%;
+            height: 100%;
+            left: 0;
+            top: 0;
+            border-radius: 50px;
+            transform: scaleY(0);
+            z-index: -1;
+            transition: transform 0.3s ease;
+        }
+
+        .wrapper ul li a:hover:after{
+            transform: scaleY(1);
+        }
+
+        .wrapper ul li a:hover{
+            color: #198CE6;
+        }
+
+        input[type="checkbox"]{
+            display: none;
+        }
+
+        #active:checked ~ .wrapper ul li a{
+            opacity: 1;
+        }
+
+        .wrapper ul li a{
+            transition: opacity 1.2s, transform 1.2s cubic-bezier(0.215, 0.61, 0.355, 1);
+            transform: translateX(100px);
+        }
+
+        #active:checked ~ .wrapper ul li a{
+            transform: translateX(-100px);
+        }
+    </style>
+</head>
+
+<body>
+    <input type="checkbox" id="active">
+    <label for="active" class="menu-btn"><span></span></label>
+    <label for="active" class="close"></label>
+    <div class="wrapper">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="http://127.0.0.1:1077/">Interactive globe view of the world</a></li>
+            <li><a href="none.html">Flat map of the world</a></li>
+            <li><a href="all.html">All attacks marked with dots</a></li>
+            <li><a href="all_lines.html">All attacks marked with lines</a></li>
+            <li><a href="chn.html">Attacks in reference to China</a></li>
+            <li><a href="rus.html">Attacks in reference to Russia</a></li>
+            <li><a href="usa.html">Attacks in reference to USA</a></li>
+            <li><a href="http://127.0.0.1:8080/">Chord Diagram</a></li>
+            <li><a href="http://127.0.0.1:15128/">Force Directed Diagram</a></li>
+            <li><a href="http://127.0.0.1:51326/">Chord Depencency Diagram</a></li>
+        </ul>
+    </div>
+
+    <div id="observablehq-chart-ecf7e7ad" style="width: 50%; margin: auto;"></div>
+    <script type="module">
+        import { Runtime, Inspector } from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+        import define from "https://api.observablehq.com/@d3/chord-dependency-diagram.js?v=3";
+
+        const runtime = new Runtime() 
+        const module = runtime.module(define, name => {
+            if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-ecf7e7ad"));
+        });
+
+        var podatoci = `source,target,value
+PRK,USA,40
+PRK,USA,46
+PRK,USA,51
+PRY,USA,172
+PTY,USA,36
+RUS,USA,42
+RUS,USA,36
+RUS,USA,42
+SAU,USA,43
+TJK,USA,43
+TUR,USA,20
+TUR,USA,32
+TUR,USA,51
+TUR,USA,173
+UKR,USA,42
+USA,USA,57
+USA,USA,40
+USA,USA,46
+USA,USA,121
+USA,USA,10
+USA,USA,13
+USA,USA,20
+USA,USA,30
+USA,USA,36
+USA,USA,40
+USA,USA,42
+USA,USA,51
+USA,USA,84
+USA,USA,114
+USA,USA,120
+USA,USA,186
+USA,USA,13
+USA,USA,40
+VNM,USA,40
+ZMB,USA,172
+ZMB,USA,172
+ZWE,USA,40
+PRK,CHN,36
+PRK,CHN,42
+REF,CHN,10
+REF,CHN,12
+RUS,CHN,20
+RUS,CHN,36
+TWN,CHN,10
+TWN,CHN,110
+TWN,CHN,130
+TWN,CHN,164
+USA,CHN,36
+USA,CHN,42
+USA,CHN,42
+VNM,CHN,42
+RUS,RUS,10
+RUS,RUS,17
+RUS,RUS,30
+RUS,RUS,36
+RUS,RUS,42
+RUS,RUS,43
+RUS,RUS,46
+RUS,RUS,57
+RUS,RUS,60
+RUS,RUS,100
+RUS,RUS,10
+RUS,RUS,46
+RUS,RUS,60
+RUS,RUS,10
+SWE,RUS,43
+TKM,RUS,20
+TUR,RUS,36
+UKR,RUS,40
+UKR,RUS,36
+UKR,RUS,71
+USA,RUS,42
+USA,RUS,57
+USA,RUS,20
+USA,RUS,20
+USA,RUS,10
+USA,RUS,16
+USA,RUS,20
+USA,RUS,36
+USA,RUS,43
+USA,RUS,51
+USA,RUS,100
+VNM,RUS,42
+VNM,RUS,43
+VNM,RUS,162`;
+
+        var newData = d3.csvParse(podatoci);
+        module.redefine("data", newData);
+
+        var newNames = [];
+
+        for (var i in newData) {
+            if (!newNames.includes(newData[i].source)) {
+                newNames.push(newData[i].source);
+            }
+            if (!newNames.includes(newData[i].target)) {
+                newNames.push(newData[i].target);
+            }
+        }
+
+        module.redefine("names", newNames);
+
+
+        var index = new Map(newNames.map((ime, i) => [ime, i]));
+        var newMatrix = Array.from(index, () => new Array(newNames.length).fill(0));
+
+        for (const { source, target, value } of newData) {
+            newMatrix[index.get(source)][index.get(target)] += parseFloat(value);
+        }
+
+        module.redefine("matrix", newMatrix)
+    </script>
+</body>
+</html>
